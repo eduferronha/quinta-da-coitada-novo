@@ -3,6 +3,7 @@ import { Trans, useLingui } from '@lingui/react/macro'
 import { msg } from '@lingui/core/macro'
 import Placeholder from '../components/Placeholder'
 import Galeria from '../components/Galeria'
+import { Icone } from '../components/Icones'
 import { quinta } from '../data/quinta'
 import { LogoBooking, LogoAirbnb } from '../components/LogosReservas'
 import fotoVista from '../img/alojamento/vista-1.jpg'
@@ -17,16 +18,17 @@ import fotoCozinha2 from '../img/alojamento/cozinha-2.jpg'
 import fotoVaranda from '../img/alojamento/varanda-1.jpg'
 
 // Informação do site antigo da quinta (e do anúncio no Booking)
+// [ícone (components/Icones.jsx), texto]
 const comodidades = [
-  msg`2 quartos`,
-  msg`Sala de estar`,
-  msg`Cozinha equipada, com frigorífico e máquina de café`,
-  msg`2 casas de banho com duche e produtos de higiene`,
-  msg`Toalhas e roupa de cama`,
-  msg`Ar condicionado`,
-  msg`Piscina`,
-  msg`Terraço, varanda e jardim`,
-  msg`Estacionamento privado gratuito`,
+  ['cama', msg`2 quartos`],
+  ['sofa', msg`Sala de estar`],
+  ['cafe', msg`Cozinha equipada, com frigorífico e máquina de café`],
+  ['duche', msg`2 casas de banho com duche e produtos de higiene`],
+  ['toalha', msg`Toalhas e roupa de cama`],
+  ['frio', msg`Ar condicionado`],
+  ['piscina', msg`Piscina`],
+  ['arvore', msg`Terraço, varanda e jardim`],
+  ['estacionamento', msg`Estacionamento privado gratuito`],
 ]
 
 
@@ -70,8 +72,10 @@ export default function Alojamento() {
             </Trans>
           </p>
         </div>
-        <ul className="stay__lista">
-          {comodidades.map(c => <li key={c.id}>{i18n._(c)}</li>)}
+        <ul className="comodidades">
+          {comodidades.map(([icone, texto]) => (
+            <li key={icone}><Icone nome={icone} size={24} />{i18n._(texto)}</li>
+          ))}
         </ul>
       </div>
 
