@@ -9,8 +9,8 @@ import fotoVaranda from '../img/alojamento/varanda-1.jpg'
 // Textos com base no site antigo da quinta. A história da família fica por escrever (ver PENDENTE.md).
 export default function Adega() {
   const { t } = useLingui()
-  // Faixa que desliza por baixo da capa (repetida para o movimento não ter fim)
-  const faixa = [t`Douro`, t`Vista para o rio`, t`Vinha em socalcos`, t`Alojamento Local`, t`Piscina`, t`Casa em pedra`]
+  // Faixa que desliza por baixo da capa (escondida; ver o comentário mais abaixo)
+  // const faixa = [t`Douro`, t`Vista para o rio`, t`Vinha em socalcos`, t`Alojamento Local`, t`Piscina`, t`Casa em pedra`]
 
   return (
     <>
@@ -30,6 +30,8 @@ export default function Adega() {
         </div>
       </section>
 
+      {/* Faixa laranja com palavras a deslizar — escondida. Para voltar a mostrar, descomentar este
+          bloco e a constante `faixa` no início do componente.
       <div className="ticker" aria-hidden="true">
         <div className="ticker__fita">
           {[0, 1].map(k => (
@@ -37,6 +39,7 @@ export default function Adega() {
           ))}
         </div>
       </div>
+      */}
 
       <section id="quinta" className="story">
         <div className="story__intro">
