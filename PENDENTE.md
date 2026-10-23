@@ -6,7 +6,8 @@ O site mistura conteúdo **real** (do site antigo da quinta) com conteúdo **pro
 - Fotografias: capa do Douro, casa (quartos, cozinha, casas de banho, alpendre, vistas).
 - Alojamento: moradia com 2 quartos, sala, cozinha equipada, 2 casas de banho, piscina, terraço, varanda, jardim, estacionamento, ar condicionado; distâncias a museus e ao Palácio de Mateus.
 - Reservas: links do Booking.com e do Airbnb.
-- Email: cruzvelha2008@hotmail.com. Localização no mapa (coordenadas do mapa do site antigo).
+- Email: cruzvelha2008@hotmail.com.
+- Morada e localização (do Booking.com): Quinta da Coitada, 5130-406 Soutelo do Douro; 41.210664, -7.441454.
 
 ## Provisório — pedir ao cliente
 - **Vinhos**: todos fictícios (nomes, fichas técnicas, análises, imagens). Pedir nomes, fotografias e fichas técnicas.
@@ -14,7 +15,6 @@ O site mistura conteúdo **real** (do site antigo da quinta) com conteúdo **pro
 - **Logótipo**: o real (veado com "QC", visível nas fotos) — pedir o ficheiro e substituir o `Mark.jsx` e o `favicon.svg`.
 - **História da quinta / família**: a página inicial tem só texto genérico.
 - **Telefone**: o do site antigo era de exemplo (`+351 912 345 678`); está `+351 910 000 000`.
-- **Morada completa** e código postal (está só "Quinta da Coitada, Douro").
 - **Empresa**: nome, NIF e sede (políticas de privacidade e cookies).
 - **Facebook**: está uma conta `.demo` — pôr a real ou retirar (o Instagram já é o real: @quintadacoitada).
 - **Número de registo do Alojamento Local** (RNAL): deve aparecer na página de Alojamento.

@@ -26,15 +26,15 @@ msgstr "09h00 – 12h30 · 14h00 – 18h00"
 msgid "10h00 – 13h00"
 msgstr "10h00 – 13h00"
 
-#: src/pages/Alojamento.jsx:24
+#: src/pages/Alojamento.jsx:26
 msgid "2 casas de banho com duche e produtos de higiene"
 msgstr "2 casas de banho com duche e produtos de higiene"
 
-#: src/pages/Alojamento.jsx:21
+#: src/pages/Alojamento.jsx:23
 msgid "2 quartos"
 msgstr "2 quartos"
 
-#: src/pages/Alojamento.jsx:64
+#: src/pages/Alojamento.jsx:66
 msgid "A casa"
 msgstr "A casa"
 
@@ -46,17 +46,21 @@ msgstr "A enviar…"
 msgid "À mesa com"
 msgstr "À mesa com"
 
-#: src/pages/Alojamento.jsx:67
+#: src/pages/Alojamento.jsx:69
 msgid "A moradia tem dois quartos, sala de estar, cozinha totalmente equipada e duas casas de banho. As paredes de pedra e rocha natural ficaram à vista em quase todas as divisões."
 msgstr "A moradia tem dois quartos, sala de estar, cozinha totalmente equipada e duas casas de banho. As paredes de pedra e rocha natural ficaram à vista em quase todas as divisões."
 
-#: src/pages/Adega.jsx:43
+#: src/pages/Adega.jsx:46
 msgid "A quinta"
 msgstr "A quinta"
 
-#: src/pages/Adega.jsx:48
+#: src/pages/Adega.jsx:51
 msgid "A Quinta da Coitada fica no Douro vinhateiro, numa encosta de vinha em socalcos virada para o rio."
 msgstr "A Quinta da Coitada fica no Douro vinhateiro, numa encosta de vinha em socalcos virada para o rio."
+
+#: src/pages/Alojamento.jsx:92
+msgid "Abrir no Google Maps"
+msgstr "Abrir no Google Maps"
 
 #: src/data/vinhosTextos.js:20
 msgid "Acidez total"
@@ -80,7 +84,7 @@ msgstr "Alergénicos"
 
 #: src/components/Footer.jsx:21
 #: src/components/Header.jsx:17
-#: src/pages/Adega.jsx:76
+#: src/pages/Adega.jsx:79
 #: src/pages/Contactos.jsx:13
 msgid "Alojamento"
 msgstr "Alojamento"
@@ -89,16 +93,15 @@ msgstr "Alojamento"
 msgid "Alojamento | {marca}"
 msgstr "Alojamento | {marca}"
 
-#: src/pages/Adega.jsx:13
-#: src/pages/Alojamento.jsx:50
+#: src/pages/Alojamento.jsx:52
 msgid "Alojamento Local"
 msgstr "Alojamento Local"
 
-#: src/pages/Alojamento.jsx:38
+#: src/pages/Alojamento.jsx:40
 msgid "Alpendre de madeira com vista para o vale"
 msgstr "Alpendre de madeira com vista para o vale"
 
-#: src/pages/Adega.jsx:74
+#: src/pages/Adega.jsx:77
 msgid "Alpendre de madeira da casa, com vista para o vale"
 msgstr "Alpendre de madeira da casa, com vista para o vale"
 
@@ -120,11 +123,11 @@ msgstr "Análise"
 msgid "Anterior"
 msgstr "Anterior"
 
-#: src/pages/Adega.jsx:54
+#: src/pages/Adega.jsx:57
 msgid "Aqui faz-se vinho e recebem-se hóspedes: a casa da quinta tem paredes de pedra, piscina, terraço e varanda sobre o vale."
 msgstr "Aqui faz-se vinho e recebem-se hóspedes: a casa da quinta tem paredes de pedra, piscina, terraço e varanda sobre o vale."
 
-#: src/pages/Alojamento.jsx:26
+#: src/pages/Alojamento.jsx:28
 msgid "Ar condicionado"
 msgstr "Ar condicionado"
 
@@ -173,13 +176,13 @@ msgstr "Caixa de oferta em madeira com vinhos do Douro: {nomes}."
 msgid "Caminho"
 msgstr "Caminho"
 
-#: src/pages/Alojamento.jsx:44
+#: src/pages/Alojamento.jsx:46
 msgid "Casa de banho com lavatório de pedra"
 msgstr "Casa de banho com lavatório de pedra"
 
 #: src/pages/Adega.jsx:13
-msgid "Casa em pedra"
-msgstr "Casa em pedra"
+#~ msgid "Casa em pedra"
+#~ msgstr "Casa em pedra"
 
 #: src/pages/Vinho.jsx:53
 msgid "Castas"
@@ -240,15 +243,15 @@ msgstr "Cookies são pequenos ficheiros que um site guarda no seu browser para s
 msgid "corrigir dados errados ou incompletos;"
 msgstr "corrigir dados errados ou incompletos;"
 
-#: src/pages/Alojamento.jsx:43
+#: src/pages/Alojamento.jsx:45
 msgid "Cozinha com frigorífico e placa"
 msgstr "Cozinha com frigorífico e placa"
 
-#: src/pages/Alojamento.jsx:37
+#: src/pages/Alojamento.jsx:39
 msgid "Cozinha e mesa de jantar, com paredes de pedra"
 msgstr "Cozinha e mesa de jantar, com paredes de pedra"
 
-#: src/pages/Alojamento.jsx:23
+#: src/pages/Alojamento.jsx:25
 msgid "Cozinha equipada, com frigorífico e máquina de café"
 msgstr "Cozinha equipada, com frigorífico e máquina de café"
 
@@ -257,14 +260,14 @@ msgid "Domingos e feriados"
 msgstr "Domingos e feriados"
 
 #: src/pages/Adega.jsx:13
-msgid "Douro"
-msgstr "Douro"
+#~ msgid "Douro"
+#~ msgstr "Douro"
 
 #: src/pages/Vinhos.jsx:31
 msgid "Douro DOC"
 msgstr "Douro DOC"
 
-#: src/pages/Alojamento.jsx:40
+#: src/pages/Alojamento.jsx:42
 msgid "Duche com paredes de pedra"
 msgstr "Duche com paredes de pedra"
 
@@ -272,7 +275,7 @@ msgstr "Duche com paredes de pedra"
 msgid "Durante quanto tempo os guardamos"
 msgstr "Durante quanto tempo os guardamos"
 
-#: src/pages/Adega.jsx:60
+#: src/pages/Adega.jsx:63
 msgid "É um bom ponto de partida para o Douro: o Museu do Douro, o Museu do Vinho de São João da Pesqueira e o Palácio de Mateus ficam a menos de 50 km."
 msgstr "É um bom ponto de partida para o Douro: o Museu do Douro, o Museu do Vinho de São João da Pesqueira e o Palácio de Mateus ficam a menos de 50 km."
 
@@ -296,7 +299,7 @@ msgstr "Encerrado"
 msgid "Encomendas e distribuição"
 msgstr "Encomendas e distribuição"
 
-#: src/pages/Adega.jsx:44
+#: src/pages/Adega.jsx:47
 msgid "Entre a vinha e o rio"
 msgstr "Entre a vinha e o rio"
 
@@ -313,7 +316,7 @@ msgstr "Escolha um assunto"
 msgid "Esta página não existe"
 msgstr "Esta página não existe"
 
-#: src/pages/Alojamento.jsx:29
+#: src/pages/Alojamento.jsx:31
 msgid "Estacionamento privado gratuito"
 msgstr "Estacionamento privado gratuito"
 
@@ -333,12 +336,12 @@ msgstr "Este site não usa cookies. Explicamos aqui o que isso quer dizer."
 msgid "Extrato seco"
 msgstr "Extrato seco"
 
-#: src/pages/Alojamento.jsx:85
+#: src/pages/Alojamento.jsx:97
 msgid "Faça a sua reserva"
 msgstr "Faça a sua reserva"
 
 #: src/components/Footer.jsx:31
-#: src/pages/Adega.jsx:94
+#: src/pages/Adega.jsx:97
 msgid "Falar connosco"
 msgstr "Falar connosco"
 
@@ -347,8 +350,8 @@ msgstr "Falar connosco"
 msgid "Fechar"
 msgstr "Fechar"
 
-#: src/pages/Adega.jsx:77
-#: src/pages/Alojamento.jsx:51
+#: src/pages/Adega.jsx:80
+#: src/pages/Alojamento.jsx:53
 msgid "Ficar na quinta"
 msgstr "Ficar na quinta"
 
@@ -372,7 +375,7 @@ msgstr "Formato"
 msgid "Fotografia: {legenda}"
 msgstr "Fotografia: {legenda}"
 
-#: src/pages/Alojamento.jsx:79
+#: src/pages/Alojamento.jsx:83
 #: src/pages/Vinho.jsx:20
 msgid "Fotografias"
 msgstr "Fotografias"
@@ -423,7 +426,11 @@ msgstr "limitar ou opor-se ao tratamento;"
 msgid "Livro de reclamações"
 msgstr "Livro de reclamações"
 
-#: src/pages/Adega.jsx:93
+#: src/pages/Alojamento.jsx:89
+msgid "Localização"
+msgstr "Localização"
+
+#: src/pages/Adega.jsx:96
 msgid "Localização e contactos"
 msgstr "Localização e contactos"
 
@@ -509,11 +516,11 @@ msgstr "O que são cookies"
 msgid "O responsável pelo tratamento é a <0>{empresa}</0>, que produz e comercializa os vinhos da {marca}, com o NIF {nif} e sede em {sede}. Para qualquer questão sobre os seus dados, escreva para <1>{email}</1>."
 msgstr "O responsável pelo tratamento é a <0>{empresa}</0>, que produz e comercializa os vinhos da {marca}, com o NIF {nif} e sede em {sede}. Para qualquer questão sobre os seus dados, escreva para <1>{email}</1>."
 
-#: src/pages/Alojamento.jsx:41
+#: src/pages/Alojamento.jsx:43
 msgid "O rio Douro visto da quinta"
 msgstr "O rio Douro visto da quinta"
 
-#: src/pages/Adega.jsx:68
+#: src/pages/Adega.jsx:71
 msgid "O rio Douro visto da quinta, com vinhas em socalcos nas duas margens"
 msgstr "O rio Douro visto da quinta, com vinhas em socalcos nas duas margens"
 
@@ -545,7 +552,7 @@ msgstr "Os seus direitos"
 msgid "Os vinhos da Coitada"
 msgstr "Os vinhos da Coitada"
 
-#: src/pages/Adega.jsx:89
+#: src/pages/Adega.jsx:92
 msgid "Os vinhos da quinta"
 msgstr "Os vinhos da quinta"
 
@@ -581,7 +588,7 @@ msgstr "pedir os dados num formato que possa levar para outra entidade;"
 msgid "pedir que os apaguemos;"
 msgstr "pedir que os apaguemos;"
 
-#: src/pages/Alojamento.jsx:65
+#: src/pages/Alojamento.jsx:67
 msgid "Pedra, madeira e vista para o rio"
 msgstr "Pedra, madeira e vista para o rio"
 
@@ -589,8 +596,7 @@ msgstr "Pedra, madeira e vista para o rio"
 msgid "pH"
 msgstr "pH"
 
-#: src/pages/Adega.jsx:13
-#: src/pages/Alojamento.jsx:27
+#: src/pages/Alojamento.jsx:29
 msgid "Piscina"
 msgstr "Piscina"
 
@@ -620,15 +626,15 @@ msgstr "Política de privacidade | {marca}"
 msgid "Produtor"
 msgstr "Produtor"
 
-#: src/pages/Alojamento.jsx:42
+#: src/pages/Alojamento.jsx:44
 msgid "Quarto com cama de casal"
 msgstr "Quarto com cama de casal"
 
-#: src/pages/Alojamento.jsx:36
+#: src/pages/Alojamento.jsx:38
 msgid "Quarto com cama de casal e parede de rocha"
 msgstr "Quarto com cama de casal e parede de rocha"
 
-#: src/pages/Alojamento.jsx:39
+#: src/pages/Alojamento.jsx:41
 msgid "Quarto com parede de rocha natural"
 msgstr "Quarto com parede de rocha natural"
 
@@ -673,8 +679,8 @@ msgstr "Recebemos visitas com marcação. Para encomendas, distribuição ou imp
 msgid "Região"
 msgstr "Região"
 
-#: src/pages/Alojamento.jsx:90
-#: src/pages/Alojamento.jsx:93
+#: src/pages/Alojamento.jsx:102
+#: src/pages/Alojamento.jsx:105
 msgid "Reservar no"
 msgstr "Reservar no"
 
@@ -690,7 +696,7 @@ msgstr "Sábado"
 msgid "saber que dados temos sobre si e pedir uma cópia;"
 msgstr "saber que dados temos sobre si e pedir uma cópia;"
 
-#: src/pages/Alojamento.jsx:22
+#: src/pages/Alojamento.jsx:24
 msgid "Sala de estar"
 msgstr "Sala de estar"
 
@@ -758,7 +764,7 @@ msgstr "Temperatura de serviço"
 msgid "Teor alcoólico"
 msgstr "Teor alcoólico"
 
-#: src/pages/Alojamento.jsx:28
+#: src/pages/Alojamento.jsx:30
 msgid "Terraço, varanda e jardim"
 msgstr "Terraço, varanda e jardim"
 
@@ -770,7 +776,7 @@ msgstr "Tinto"
 msgid "Tipo"
 msgstr "Tipo"
 
-#: src/pages/Alojamento.jsx:25
+#: src/pages/Alojamento.jsx:27
 msgid "Toalhas e roupa de cama"
 msgstr "Toalhas e roupa de cama"
 
@@ -791,11 +797,11 @@ msgstr "Última atualização: 21 de outubro de 2026"
 msgid "Uma casa de pedra entre vinhas em socalcos, com vista para o rio Douro. Para conhecer os vinhos da quinta ou ficar uns dias."
 msgstr "Uma casa de pedra entre vinhas em socalcos, com vista para o rio Douro. Para conhecer os vinhos da quinta ou ficar uns dias."
 
-#: src/pages/Adega.jsx:79
+#: src/pages/Adega.jsx:82
 msgid "Uma moradia com dois quartos, cozinha equipada, piscina e varanda virada para o Douro."
 msgstr "Uma moradia com dois quartos, cozinha equipada, piscina e varanda virada para o Douro."
 
-#: src/pages/Alojamento.jsx:53
+#: src/pages/Alojamento.jsx:55
 msgid "Uma moradia com vista para a piscina e para o Douro, com terraço, varanda, jardim e estacionamento privado gratuito."
 msgstr "Uma moradia com vista para a piscina e para o Douro, com terraço, varanda, jardim e estacionamento privado gratuito."
 
@@ -807,7 +813,7 @@ msgstr "Usamos os dados apenas para responder ao seu pedido: marcar visitas e pr
 msgid "Valor energético"
 msgstr "Valor energético"
 
-#: src/pages/Alojamento.jsx:86
+#: src/pages/Alojamento.jsx:98
 msgid "Veja as datas livres e reserve no Booking.com ou no Airbnb. Para outras questões, <0>fale connosco</0>."
 msgstr "Veja as datas livres e reserve no Booking.com ou no Airbnb. Para outras questões, <0>fale connosco</0>."
 
@@ -820,17 +826,17 @@ msgstr "Ver ficha técnica"
 msgid "Ver fotografia {0}"
 msgstr "Ver fotografia {0}"
 
-#: src/pages/Adega.jsx:83
+#: src/pages/Adega.jsx:86
 msgid "Ver o alojamento"
 msgstr "Ver o alojamento"
 
-#: src/pages/Adega.jsx:90
+#: src/pages/Adega.jsx:93
 msgid "Ver os vinhos"
 msgstr "Ver os vinhos"
 
 #: src/pages/Adega.jsx:13
-msgid "Vinha em socalcos"
-msgstr "Vinha em socalcos"
+#~ msgid "Vinha em socalcos"
+#~ msgstr "Vinha em socalcos"
 
 #: src/data/metaTraduzida.js:66
 msgid "Vinho {cor}"
@@ -858,15 +864,15 @@ msgstr "Visitas e provas"
 msgid "Visite-nos ou escreva-nos"
 msgstr "Visite-nos ou escreva-nos"
 
-#: src/pages/Alojamento.jsx:60
+#: src/pages/Alojamento.jsx:62
 msgid "Vista da casa sobre o rio Douro e as vinhas em socalcos"
 msgstr "Vista da casa sobre o rio Douro e as vinhas em socalcos"
 
 #: src/pages/Adega.jsx:13
-msgid "Vista para o rio"
-msgstr "Vista para o rio"
+#~ msgid "Vista para o rio"
+#~ msgstr "Vista para o rio"
 
-#: src/pages/Adega.jsx:69
+#: src/pages/Adega.jsx:72
 msgid "Vista sobre o telhado da casa para o rio Douro"
 msgstr "Vista sobre o telhado da casa para o rio Douro"
 

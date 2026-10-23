@@ -8,15 +8,15 @@ export const SITE_URL = 'https://www.quintadacoitada.pt' // A CONFIRMAR: domíni
 export const quinta = {
   nome: 'Quinta da Coitada',
   // Responsável pelo tratamento de dados (políticas de privacidade e cookies) — A CONFIRMAR: nome, NIF e sede
-  empresa: { nome: 'Quinta da Coitada', nif: '000 000 000', sede: 'Douro, Portugal' },
-  morada: ['Quinta da Coitada', 'Douro', 'Portugal'], // A CONFIRMAR: morada completa e código postal
+  empresa: { nome: 'Quinta da Coitada', nif: '000 000 000', sede: '5130-406 Soutelo do Douro' },
+  // Morada e coordenadas do anúncio no Booking.com
+  morada: ['Quinta da Coitada', '5130-406 Soutelo do Douro', 'Portugal'],
   // Telemóveis: a nota de rodapé diz "rede móvel nacional" (obrigatório indicar o tipo de rede)
   telefones: [
     { numero: '+351 910 000 000', nome: 'Geral' }, // A CONFIRMAR: o número do site antigo era de exemplo
   ],
   emails: { geral: 'cruzvelha2008@hotmail.com' },
-  // Localização do mapa do site antigo
-  mapa: 'https://www.google.com/maps/search/?api=1&query=41.21046,-7.44353',
+  mapa: 'https://www.google.com/maps/search/?api=1&query=41.210664,-7.441454',
   // Reservas do alojamento
   reservas: {
     booking: 'https://www.booking.com/hotel/pt/quinta-da-coitada-alojamento-local.pt-pt.html',

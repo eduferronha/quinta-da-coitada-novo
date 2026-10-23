@@ -3,7 +3,7 @@ import { Trans, useLingui } from '@lingui/react/macro'
 import { msg } from '@lingui/core/macro'
 import Placeholder from '../components/Placeholder'
 import Galeria from '../components/Galeria'
-import { Icone } from '../components/Icones'
+import { Icone, ComIcone } from '../components/Icones'
 import { quinta } from '../data/quinta'
 import { LogoBooking, LogoAirbnb } from '../components/LogosReservas'
 import fotoVista from '../img/alojamento/vista-1.jpg'
@@ -82,6 +82,14 @@ export default function Alojamento() {
       <div className="stay__galeria">
         <p className="label"><Trans>Fotografias</Trans></p>
         <Galeria fotos={fotos} />
+      </div>
+
+      <div className="stay__local">
+        <div>
+          <p className="label"><Trans>Localização</Trans></p>
+          <ComIcone nome="morada" as="address">{quinta.morada.map(l => <span key={l}>{l}<br /></span>)}</ComIcone>
+        </div>
+        <a href={quinta.mapa} target="_blank" rel="noreferrer" className="btn btn--ghost"><Trans>Abrir no Google Maps</Trans> ↗</a>
       </div>
 
       <section className="reserva" aria-labelledby="reserva-title">
