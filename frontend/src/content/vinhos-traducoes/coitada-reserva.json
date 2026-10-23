@@ -1,0 +1,30 @@
+{
+  "en": {
+    "descricao": "The wine that named the estate, from the highest plots on the slope.",
+    "estagio": "12 months in used barrels.",
+    "prova": "Dark ruby. Plum, violet and gentle spice. Round, balanced palate with a lasting finish.",
+    "harmonizacao": "Grilled red meat, duck rice.",
+    "descricao_foto": "Bottle of Coitada Reserva, terracotta capsule, on a dark background"
+  },
+  "fr": {
+    "descricao": "Le vin qui a donné son nom au domaine, des parcelles les plus hautes du coteau.",
+    "estagio": "12 mois en barriques usagées.",
+    "prova": "Rubis sombre. Prune, violette et épices douces. Bouche ronde, équilibrée, à la finale persistante.",
+    "harmonizacao": "Viandes rouges grillées, riz au canard.",
+    "descricao_foto": "Bouteille de Coitada Reserva, capsule terre cuite, sur fond sombre"
+  },
+  "es": {
+    "descricao": "El vino que dio nombre a la casa, de las parcelas más altas de la ladera.",
+    "estagio": "12 meses en barricas usadas.",
+    "prova": "Rubí oscuro. Ciruela, violeta y especias suaves. Boca redonda, equilibrada, de final persistente.",
+    "harmonizacao": "Carnes rojas a la brasa, arroz con pato.",
+    "descricao_foto": "Botella de Coitada Reserva, cápsula terracota, sobre fondo oscuro"
+  },
+  "de": {
+    "descricao": "Der Wein, der dem Gut seinen Namen gab, aus den höchsten Parzellen des Hangs.",
+    "estagio": "12 Monate in gebrauchten Fässern.",
+    "prova": "Dunkles Rubinrot. Pflaume, Veilchen und sanfte Würze. Runder, ausgewogener Gaumen mit anhaltendem Abgang.",
+    "harmonizacao": "Gegrilltes rotes Fleisch, Entenreis.",
+    "descricao_foto": "Flasche Coitada Reserva mit terrakottafarbener Kapsel vor dunklem Hintergrund"
+  }
+}

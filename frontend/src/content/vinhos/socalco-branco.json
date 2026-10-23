@@ -1,0 +1,27 @@
+{
+  "ordem": 40,
+  "nome": "Socalco Branco",
+  "categoria": "garrafa",
+  "cor": "branco",
+  "colheita": 2024,
+  "regiao": "Douro DOC",
+  "formato": "750 ml",
+  "alcool": 12.5,
+  "produtor": "Coitada Vinhos, Lda",
+  "castas": [
+    "Malvasia Fina",
+    "Gouveio",
+    "Rabigato"
+  ],
+  "temperatura": {
+    "min": 8,
+    "max": 10
+  },
+  "fotos": [
+    "/img/vinhos/socalco-branco.jpg"
+  ],
+  "descricao_foto": "Garrafa de Socalco Branco sobre fundo claro",
+  "descricao": "Branco de altitude, das vinhas viradas a norte.",
+  "prova": "Citrino. Limão, flor de laranjeira e um fundo mineral. Boca viva e salina.",
+  "harmonizacao": "Peixe grelhado, marisco, saladas."
+}

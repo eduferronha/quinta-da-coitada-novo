@@ -1,0 +1,879 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-21 18:30+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: @lingui/cli\n"
+
+#: src/data/metaTraduzida.js:66
+msgid "{cor} em bag-in-box"
+msgstr "{cor} im Bag-in-Box"
+
+#: src/data/conteudo.js:5
+msgid "09h00 – 12h30 · 14h00 – 18h00"
+msgstr "9:00–12:30 · 14:00–18:00 Uhr"
+
+#: src/data/conteudo.js:6
+msgid "10h00 – 13h00"
+msgstr "10:00–13:00 Uhr"
+
+#: src/pages/Alojamento.jsx:24
+msgid "2 casas de banho com duche e produtos de higiene"
+msgstr "2 Bäder mit Dusche und Pflegeprodukten"
+
+#: src/pages/Alojamento.jsx:21
+msgid "2 quartos"
+msgstr "2 Schlafzimmer"
+
+#: src/pages/Alojamento.jsx:64
+msgid "A casa"
+msgstr "Das Haus"
+
+#: src/pages/Contactos.jsx:155
+msgid "A enviar…"
+msgstr "Wird gesendet…"
+
+#: src/pages/Vinho.jsx:103
+msgid "À mesa com"
+msgstr "Passt zu"
+
+#: src/pages/Alojamento.jsx:67
+msgid "A moradia tem dois quartos, sala de estar, cozinha totalmente equipada e duas casas de banho. As paredes de pedra e rocha natural ficaram à vista em quase todas as divisões."
+msgstr "Die Villa hat zwei Schlafzimmer, ein Wohnzimmer, eine voll ausgestattete Küche und zwei Bäder. Die Steinmauern und der natürliche Fels sind in fast allen Räumen sichtbar."
+
+#: src/pages/Adega.jsx:43
+msgid "A quinta"
+msgstr "Das Gut"
+
+#: src/pages/Adega.jsx:48
+msgid "A Quinta da Coitada fica no Douro vinhateiro, numa encosta de vinha em socalcos virada para o rio."
+msgstr "Die Quinta da Coitada liegt im Weinbaugebiet des Douro, an einem Hang mit terrassierten Weinbergen über dem Fluss."
+
+#: src/data/vinhosTextos.js:20
+msgid "Acidez total"
+msgstr "Gesamtsäure"
+
+#: src/data/vinhosTextos.js:21
+msgid "Acidez volátil"
+msgstr "Flüchtige Säure"
+
+#: src/data/vinhosTextos.js:22
+msgid "Açúcar residual"
+msgstr "Restzucker"
+
+#: src/pages/Noticias.jsx:20
+msgid "Ainda não há novidades."
+msgstr "Noch keine Neuigkeiten."
+
+#: src/pages/Vinho.jsx:71
+msgid "Alergénicos"
+msgstr "Allergene"
+
+#: src/components/Footer.jsx:21
+#: src/components/Header.jsx:17
+#: src/pages/Adega.jsx:76
+#: src/pages/Contactos.jsx:13
+msgid "Alojamento"
+msgstr "Unterkunft"
+
+#: src/data/metaTraduzida.js:23
+msgid "Alojamento | {marca}"
+msgstr "Unterkunft | {marca}"
+
+#: src/pages/Adega.jsx:13
+#: src/pages/Alojamento.jsx:50
+msgid "Alojamento Local"
+msgstr "Ferienunterkunft"
+
+#: src/pages/Alojamento.jsx:38
+msgid "Alpendre de madeira com vista para o vale"
+msgstr "Holzveranda mit Blick ins Tal"
+
+#: src/pages/Adega.jsx:74
+msgid "Alpendre de madeira da casa, com vista para o vale"
+msgstr "Die Holzveranda des Hauses mit Blick ins Tal"
+
+#: src/pages/Cookies.jsx:54
+#: src/pages/Privacidade.jsx:109
+msgid "Alterações"
+msgstr "Änderungen"
+
+#. placeholder {0}: f.alt
+#: src/components/Galeria.jsx:28
+msgid "Ampliar: {0}"
+msgstr "Vergrößern: {0}"
+
+#: src/pages/Vinho.jsx:108
+msgid "Análise"
+msgstr "Analyse"
+
+#: src/components/Galeria.jsx:38
+msgid "Anterior"
+msgstr "Zurück"
+
+#: src/pages/Adega.jsx:54
+msgid "Aqui faz-se vinho e recebem-se hóspedes: a casa da quinta tem paredes de pedra, piscina, terraço e varanda sobre o vale."
+msgstr "Hier wird Wein gemacht und Gäste werden empfangen: Das Haus des Guts hat Steinmauern, einen Pool, eine Terrasse und einen Balkon über dem Tal."
+
+#: src/pages/Alojamento.jsx:26
+msgid "Ar condicionado"
+msgstr "Klimaanlage"
+
+#: src/pages/Cookies.jsx:40
+msgid "As fotografias e os tipos de letra são servidos pelo próprio site, sem pedidos a serviços de terceiros."
+msgstr "Fotos und Schriftarten werden von der Website selbst bereitgestellt, ohne Anfragen an Drittanbieter."
+
+#: src/pages/Cookies.jsx:45
+msgid "As ligações para o Instagram, o Google Maps e o Livro de Reclamações abrem esses serviços, que podem usar os seus próprios cookies. Consulte as políticas de cada um."
+msgstr "Die Links zu Instagram, Google Maps und dem Beschwerdebuch öffnen diese Dienste, die eigene Cookies verwenden können. Bitte beachten Sie deren Richtlinien."
+
+#: src/pages/Privacidade.jsx:75
+msgid "As mensagens são lidas apenas por quem trabalha na quinta. São encaminhadas para o nosso email por um serviço de envio de formulários e ficam guardadas na nossa caixa de correio. Estas empresas tratam os dados por nossa conta e não os podem usar para outros fins. Se algum destes prestadores estiver fora do Espaço Económico Europeu, a transferência é feita com as garantias exigidas pelo RGPD."
+msgstr "Die Nachrichten werden nur von Mitarbeitern des Weinguts gelesen. Sie werden von einem Formulardienst an unsere E-Mail-Adresse weitergeleitet und in unserem Postfach gespeichert. Diese Unternehmen verarbeiten die Daten in unserem Auftrag und dürfen sie nicht für andere Zwecke verwenden. Befindet sich einer dieser Anbieter außerhalb des Europäischen Wirtschaftsraums, erfolgt die Übermittlung mit den von der DSGVO geforderten Garantien."
+
+#: src/pages/Contactos.jsx:135
+msgid "Assunto"
+msgstr "Betreff"
+
+#: src/pages/Privacidade.jsx:37
+msgid "assunto e mensagem."
+msgstr "Betreff und Nachricht."
+
+#: src/pages/Contactos.jsx:148
+msgid "Autorizo a recolha e tratamento dos meus dados pessoais para responder a esta mensagem. Saiba mais na <0>política de privacidade</0>."
+msgstr "Ich willige in die Erhebung und Verarbeitung meiner personenbezogenen Daten zur Beantwortung dieser Nachricht ein. Mehr dazu in der <0>Datenschutzerklärung</0>."
+
+#: src/data/vinhosTextos.js:8
+msgid "Bag-in-box"
+msgstr "Bag-in-Box"
+
+#: src/data/vinhosTextos.js:14
+msgid "Branco"
+msgstr "Weiß"
+
+#: src/data/vinhosTextos.js:9
+msgid "Caixa de oferta"
+msgstr "Geschenkbox"
+
+#: src/data/metaTraduzida.js:62
+msgid "Caixa de oferta em madeira com vinhos do Douro: {nomes}."
+msgstr "Geschenkbox aus Holz mit Douro-Weinen: {nomes}."
+
+#: src/pages/Noticia.jsx:20
+#: src/pages/Vinho.jsx:76
+msgid "Caminho"
+msgstr "Brotkrumennavigation"
+
+#: src/pages/Alojamento.jsx:44
+msgid "Casa de banho com lavatório de pedra"
+msgstr "Bad mit Waschbecken aus Stein"
+
+#: src/pages/Adega.jsx:13
+msgid "Casa em pedra"
+msgstr "Steinhaus"
+
+#: src/pages/Vinho.jsx:53
+msgid "Castas"
+msgstr "Rebsorten"
+
+#: src/data/metaTraduzida.js:69
+msgid "Castas: {lista}."
+msgstr "Rebsorten: {lista}."
+
+#: src/components/Footer.jsx:41
+#: src/pages/Contactos.jsx:101
+msgid "Chamada para a rede móvel nacional."
+msgstr "Anruf ins portugiesische Mobilfunknetz."
+
+#: src/pages/Vinho.jsx:52
+msgid "Colheita"
+msgstr "Jahrgang"
+
+#: src/pages/Privacidade.jsx:55
+msgid "Com que fundamento"
+msgstr "Rechtsgrundlage"
+
+#: src/data/metaTraduzida.js:36
+msgid "Como a {marca} trata os dados pessoais enviados pelo formulário de contacto."
+msgstr "Wie {marca} die über das Kontaktformular gesendeten personenbezogenen Daten verarbeitet."
+
+#: src/pages/Cookies.jsx:51
+msgid "Como controlar os cookies"
+msgstr "Wie Sie Cookies kontrollieren"
+
+#: src/pages/Privacidade.jsx:16
+msgid "Como tratamos os dados pessoais que nos envia pelo formulário de contacto."
+msgstr "Wie wir die personenbezogenen Daten verarbeiten, die Sie uns über das Kontaktformular senden."
+
+#: src/pages/Adega.jsx:29
+msgid "Conhecer a quinta"
+msgstr "Das Weingut entdecken"
+
+#: src/pages/Vinho.jsx:104
+msgid "Conservação"
+msgstr "Lagerung"
+
+#: src/components/Footer.jsx:23
+#: src/components/Header.jsx:20
+#: src/pages/Contactos.jsx:91
+msgid "Contactos"
+msgstr "Kontakt"
+
+#: src/data/metaTraduzida.js:31
+msgid "Contactos e visitas | {marca}"
+msgstr "Kontakt und Besuche | {marca}"
+
+#: src/pages/Cookies.jsx:19
+msgid "Cookies são pequenos ficheiros que um site guarda no seu browser para se lembrar de si entre visitas, medir audiências ou mostrar publicidade."
+msgstr "Cookies sind kleine Dateien, die eine Website in Ihrem Browser speichert, um Sie bei späteren Besuchen wiederzuerkennen, Reichweiten zu messen oder Werbung anzuzeigen."
+
+#: src/pages/Privacidade.jsx:87
+msgid "corrigir dados errados ou incompletos;"
+msgstr "unrichtige oder unvollständige Daten berichtigen lassen;"
+
+#: src/pages/Alojamento.jsx:43
+msgid "Cozinha com frigorífico e placa"
+msgstr "Küche mit Kühlschrank und Kochfeld"
+
+#: src/pages/Alojamento.jsx:37
+msgid "Cozinha e mesa de jantar, com paredes de pedra"
+msgstr "Küche und Esstisch mit Steinmauern"
+
+#: src/pages/Alojamento.jsx:23
+msgid "Cozinha equipada, com frigorífico e máquina de café"
+msgstr "Ausgestattete Küche mit Kühlschrank und Kaffeemaschine"
+
+#: src/data/conteudo.js:7
+msgid "Domingos e feriados"
+msgstr "Sonn- und Feiertage"
+
+#: src/pages/Adega.jsx:13
+msgid "Douro"
+msgstr "Douro"
+
+#: src/pages/Vinhos.jsx:31
+msgid "Douro DOC"
+msgstr "Douro DOC"
+
+#: src/pages/Alojamento.jsx:40
+msgid "Duche com paredes de pedra"
+msgstr "Dusche mit Steinwänden"
+
+#: src/pages/Privacidade.jsx:64
+msgid "Durante quanto tempo os guardamos"
+msgstr "Wie lange wir sie speichern"
+
+#: src/pages/Adega.jsx:60
+msgid "É um bom ponto de partida para o Douro: o Museu do Douro, o Museu do Vinho de São João da Pesqueira e o Palácio de Mateus ficam a menos de 50 km."
+msgstr "Ein guter Ausgangspunkt für das Douro-Tal: Das Douro-Museum, das Weinmuseum von São João da Pesqueira und der Mateus-Palast liegen weniger als 50 km entfernt."
+
+#: src/pages/Cookies.jsx:52
+msgid "Em qualquer site, pode ver e apagar cookies nas definições do seu browser, ou bloqueá-los por completo."
+msgstr "Auf jeder Website können Sie Cookies in den Einstellungen Ihres Browsers einsehen und löschen oder vollständig blockieren."
+
+#: src/pages/Contactos.jsx:126
+msgid "Email"
+msgstr "E-Mail"
+
+#: src/pages/Privacidade.jsx:35
+msgid "email;"
+msgstr "E-Mail-Adresse;"
+
+#: src/data/conteudo.js:7
+msgid "Encerrado"
+msgstr "Geschlossen"
+
+#: src/pages/Contactos.jsx:14
+msgid "Encomendas e distribuição"
+msgstr "Bestellungen und Vertrieb"
+
+#: src/pages/Adega.jsx:44
+msgid "Entre a vinha e o rio"
+msgstr "Zwischen Reben und Fluss"
+
+#: src/pages/Contactos.jsx:117
+#: src/pages/Contactos.jsx:155
+msgid "Enviar mensagem"
+msgstr "Nachricht senden"
+
+#: src/pages/Contactos.jsx:137
+msgid "Escolha um assunto"
+msgstr "Betreff wählen"
+
+#: src/pages/NotFound.jsx:7
+msgid "Esta página não existe"
+msgstr "Diese Seite existiert nicht"
+
+#: src/pages/Alojamento.jsx:29
+msgid "Estacionamento privado gratuito"
+msgstr "Kostenlose Privatparkplätze"
+
+#: src/pages/Vinho.jsx:54
+msgid "Estágio"
+msgstr "Ausbau"
+
+#: src/components/VerificacaoIdade.jsx:42
+msgid "Este site contém informação sobre bebidas alcoólicas. Para entrar, confirme que tem idade legal para as consumir."
+msgstr "Diese Website enthält Informationen über alkoholische Getränke. Bitte bestätigen Sie, dass Sie das gesetzliche Mindestalter für den Alkoholkonsum erreicht haben."
+
+#: src/pages/Cookies.jsx:11
+msgid "Este site não usa cookies. Explicamos aqui o que isso quer dizer."
+msgstr "Diese Website verwendet keine Cookies. Hier erklären wir, was das bedeutet."
+
+#: src/data/vinhosTextos.js:18
+msgid "Extrato seco"
+msgstr "Trockenextrakt"
+
+#: src/pages/Alojamento.jsx:85
+msgid "Faça a sua reserva"
+msgstr "Jetzt buchen"
+
+#: src/components/Footer.jsx:31
+#: src/pages/Adega.jsx:94
+msgid "Falar connosco"
+msgstr "Kontakt aufnehmen"
+
+#: src/components/Galeria.jsx:37
+#: src/components/Header.jsx:41
+msgid "Fechar"
+msgstr "Schließen"
+
+#: src/pages/Adega.jsx:77
+#: src/pages/Alojamento.jsx:51
+msgid "Ficar na quinta"
+msgstr "Auf dem Gut wohnen"
+
+#: src/pages/Vinho.jsx:95
+msgid "Ficha técnica"
+msgstr "Technisches Datenblatt"
+
+#: src/data/metaTraduzida.js:70
+msgid "Ficha técnica e notas de prova."
+msgstr "Technisches Datenblatt und Verkostungsnotizen."
+
+#: src/pages/Vinhos.jsx:41
+msgid "Filtrar por formato"
+msgstr "Nach Format filtern"
+
+#: src/pages/Vinho.jsx:49
+msgid "Formato"
+msgstr "Format"
+
+#: src/components/Placeholder.jsx:15
+msgid "Fotografia: {legenda}"
+msgstr "Foto: {legenda}"
+
+#: src/pages/Alojamento.jsx:79
+#: src/pages/Vinho.jsx:20
+msgid "Fotografias"
+msgstr "Fotos"
+
+#: src/data/vinhosTextos.js:7
+msgid "Garrafa"
+msgstr "Flasche"
+
+#: src/pages/Contactos.jsx:16
+msgid "Geral"
+msgstr "Allgemein"
+
+#: src/pages/Privacidade.jsx:66
+msgid "Guardamos as mensagens durante o tempo necessário para tratar o seu pedido e, no máximo, dois anos após o último contacto. Depois disso são apagadas, exceto se a lei nos obrigar a guardá-las por mais tempo (por exemplo, quando dão origem a uma venda faturada)."
+msgstr "Wir speichern Nachrichten so lange, wie es für die Bearbeitung Ihrer Anfrage erforderlich ist, höchstens jedoch zwei Jahre nach dem letzten Kontakt. Danach werden sie gelöscht, es sei denn, wir sind gesetzlich zu einer längeren Aufbewahrung verpflichtet (zum Beispiel, wenn daraus ein in Rechnung gestellter Verkauf entsteht)."
+
+#. placeholder {0}: atual.nome
+#: src/components/SeletorIdioma.jsx:35
+msgid "Idioma: {0}"
+msgstr "Sprache: {0}"
+
+#: src/pages/Contactos.jsx:15
+msgid "Imprensa"
+msgstr "Presse"
+
+#: src/pages/Vinho.jsx:125
+msgid "Inclui"
+msgstr "Enthält"
+
+#: src/components/VerificacaoIdade.jsx:33
+msgid "Lamentamos"
+msgstr "Es tut uns leid"
+
+#: src/pages/Noticias.jsx:34
+msgid "Ler mais"
+msgstr "Weiterlesen"
+
+#: src/pages/Cookies.jsx:43
+#: src/pages/Privacidade.jsx:101
+msgid "Ligações para outros sites"
+msgstr "Links zu anderen Websites"
+
+#: src/pages/Privacidade.jsx:89
+msgid "limitar ou opor-se ao tratamento;"
+msgstr "die Verarbeitung einschränken lassen oder ihr widersprechen;"
+
+#: src/components/Footer.jsx:45
+msgid "Livro de reclamações"
+msgstr "Beschwerdebuch"
+
+#: src/pages/Adega.jsx:93
+msgid "Localização e contactos"
+msgstr "Lage und Kontakt"
+
+#: src/pages/Contactos.jsx:142
+msgid "Mensagem"
+msgstr "Nachricht"
+
+#: src/pages/Contactos.jsx:69
+msgid "Mensagem enviada. Respondemos em até dois dias úteis."
+msgstr "Nachricht gesendet. Wir antworten innerhalb von zwei Werktagen."
+
+#: src/components/Header.jsx:41
+msgid "Menu"
+msgstr "Menü"
+
+#: src/components/Footer.jsx:27
+#: src/pages/Contactos.jsx:86
+msgid "Morada"
+msgstr "Adresse"
+
+#: src/data/metaTraduzida.js:32
+msgid "Morada, horário e contactos da quinta. Marque uma visita ou prova, ou fale connosco sobre encomendas e distribuição."
+msgstr "Adresse, Öffnungszeiten und Kontakt des Weinguts. Buchen Sie einen Besuch oder eine Verkostung, oder sprechen Sie mit uns über Bestellungen und Vertrieb."
+
+#: src/data/metaTraduzida.js:24
+msgid "Moradia de dois quartos na Quinta da Coitada, no Douro, com piscina, terraço, varanda e vista para o rio. Reserve no Booking.com ou no Airbnb."
+msgstr "Villa mit zwei Schlafzimmern auf der Quinta da Coitada im Douro-Tal, mit Pool, Terrasse, Balkon und Flussblick. Buchbar über Booking.com oder Airbnb."
+
+#: src/components/VerificacaoIdade.jsx:45
+msgid "Não"
+msgstr "Nein"
+
+#: src/pages/Contactos.jsx:45
+#: src/pages/Contactos.jsx:65
+msgid "Não foi possível enviar a mensagem. Tente outra vez ou escreva para {email}."
+msgstr "Die Nachricht konnte nicht gesendet werden. Bitte versuchen Sie es erneut oder schreiben Sie an {email}."
+
+#: src/components/Footer.jsx:17
+msgid "Navegação"
+msgstr "Navigation"
+
+#: src/pages/Cookies.jsx:27
+msgid "Nenhum. O site da {marca} não usa cookies nem ferramentas de estatística, publicidade ou botões de redes sociais. Por isso também não lhe pedimos consentimento à entrada."
+msgstr "Keine. Die Website der {marca} verwendet weder Cookies noch Statistik-, Werbe- oder Social-Media-Tools. Deshalb bitten wir Sie beim Besuch auch nicht um Ihre Einwilligung."
+
+#: src/pages/Contactos.jsx:121
+msgid "Nome completo"
+msgstr "Vollständiger Name"
+
+#: src/pages/Privacidade.jsx:34
+msgid "nome;"
+msgstr "Name;"
+
+#: src/pages/Vinho.jsx:102
+msgid "Notas de prova"
+msgstr "Verkostungsnotizen"
+
+#: src/components/Footer.jsx:22
+#: src/components/Header.jsx:19
+#: src/pages/Noticia.jsx:21
+#: src/pages/Noticias.jsx:15
+msgid "Novidades"
+msgstr "Neuigkeiten"
+
+#: src/data/metaTraduzida.js:27
+msgid "Novidades | {marca}"
+msgstr "Neuigkeiten | {marca}"
+
+#: src/data/metaTraduzida.js:28
+#: src/pages/Noticias.jsx:16
+msgid "Novidades da quinta: vindimas, vinhos novos, prémios e eventos."
+msgstr "Neues vom Weingut: Weinlese, neue Weine, Auszeichnungen und Veranstaltungen."
+
+#: src/pages/NotFound.jsx:8
+msgid "O endereço pode ter mudado. Volte à <0>quinta</0> ou veja os <1>vinhos</1>."
+msgstr "Die Adresse hat sich möglicherweise geändert. Zurück zum <0>Weingut</0> oder zu den <1>Weinen</1>."
+
+#: src/pages/Cookies.jsx:17
+msgid "O que são cookies"
+msgstr "Was sind Cookies"
+
+#: src/pages/Privacidade.jsx:24
+msgid "O responsável pelo tratamento é a <0>{empresa}</0>, que produz e comercializa os vinhos da {marca}, com o NIF {nif} e sede em {sede}. Para qualquer questão sobre os seus dados, escreva para <1>{email}</1>."
+msgstr "Verantwortlich für die Verarbeitung ist die <0>{empresa}</0>, die die Weine der {marca} herstellt und vertreibt, Steuer-Nr. {nif}, Sitz: {sede}. Bei Fragen zu Ihren Daten schreiben Sie an <1>{email}</1>."
+
+#: src/pages/Alojamento.jsx:41
+msgid "O rio Douro visto da quinta"
+msgstr "Der Douro vom Gut aus gesehen"
+
+#: src/pages/Adega.jsx:68
+msgid "O rio Douro visto da quinta, com vinhas em socalcos nas duas margens"
+msgstr "Der Douro vom Gut aus, mit Weinbergterrassen an beiden Ufern"
+
+#: src/pages/Cookies.jsx:33
+msgid "O site guarda apenas, no seu browser, o idioma que escolheu e a confirmação de que tem 18 anos ou mais, para não lhe voltar a perguntar na próxima visita. Esta informação não é enviada para nenhum servidor e pode apagá-la a qualquer momento nas definições do browser."
+msgstr "Die Website speichert in Ihrem Browser lediglich die gewählte Sprache und Ihre Bestätigung, dass Sie mindestens 18 Jahre alt sind, damit beim nächsten Besuch nicht erneut gefragt wird. Diese Information wird an keinen Server gesendet und kann jederzeit in den Browsereinstellungen gelöscht werden."
+
+#: src/pages/Privacidade.jsx:40
+msgid "O site não usa ferramentas de estatística, publicidade ou redes sociais que recolham dados sobre a sua visita. Veja a <0>política de cookies</0>."
+msgstr "Die Website verwendet keine Statistik-, Werbe- oder Social-Media-Tools, die Daten über Ihren Besuch erheben. Siehe <0>Cookie-Richtlinie</0>."
+
+#: src/pages/Privacidade.jsx:103
+msgid "O site tem ligações para o Instagram, o Google Maps e o Livro de Reclamações. Ao abri-las, passa a aplicar-se a política de privacidade de cada um desses serviços."
+msgstr "Die Website enthält Links zu Instagram, Google Maps und dem Beschwerdebuch. Wenn Sie diese öffnen, gilt die Datenschutzerklärung des jeweiligen Dienstes."
+
+#: src/pages/Privacidade.jsx:57
+msgid "O tratamento baseia-se no seu consentimento, dado ao assinalar a caixa no formulário (artigo 6.º, n.º 1, alínea a) do Regulamento Geral sobre a Proteção de Dados). Quando o pedido é uma encomenda, baseia-se também nas diligências necessárias antes de um contrato (alínea b)."
+msgstr "Die Verarbeitung beruht auf Ihrer Einwilligung, die Sie durch Ankreuzen des Kästchens im Formular erteilen (Art. 6 Abs. 1 lit. a der Datenschutz-Grundverordnung). Handelt es sich um eine Bestellung, beruht sie zudem auf vorvertraglichen Maßnahmen (lit. b)."
+
+#: src/pages/Contactos.jsx:88
+msgid "Obter direções"
+msgstr "Route planen"
+
+#: src/pages/Privacidade.jsx:83
+msgid "Os seus direitos"
+msgstr "Ihre Rechte"
+
+#: src/pages/Vinhos.jsx:32
+msgid "Os vinhos da Coitada"
+msgstr "Die Weine der Coitada"
+
+#: src/pages/Adega.jsx:89
+msgid "Os vinhos da quinta"
+msgstr "Die Weine des Guts"
+
+#: src/pages/Noticia.jsx:44
+msgid "Outras novidades"
+msgstr "Weitere Neuigkeiten"
+
+#: src/pages/Vinho.jsx:134
+msgid "Outros vinhos"
+msgstr "Weitere Weine"
+
+#: src/data/metaTraduzida.js:44
+msgid "Página não encontrada | {marca}"
+msgstr "Seite nicht gefunden | {marca}"
+
+#: src/components/VerificacaoIdade.jsx:34
+msgid "Para entrar neste site tem de ter idade legal para consumir bebidas alcoólicas."
+msgstr "Um diese Website zu betreten, müssen Sie das gesetzliche Mindestalter für den Alkoholkonsum erreicht haben."
+
+#: src/pages/Privacidade.jsx:94
+msgid "Para exercer qualquer destes direitos, escreva para <0>{email}</0>. Respondemos no prazo de um mês. Se considerar que os seus dados não foram bem tratados, pode apresentar queixa à Comissão Nacional de Proteção de Dados (<1>www.cnpd.pt</1>)."
+msgstr "Um eines dieser Rechte auszuüben, schreiben Sie an <0>{email}</0>. Wir antworten innerhalb eines Monats. Wenn Sie der Meinung sind, dass Ihre Daten nicht ordnungsgemäß verarbeitet wurden, können Sie sich bei der portugiesischen Datenschutzbehörde CNPD beschweren (<1>www.cnpd.pt</1>)."
+
+#: src/pages/Privacidade.jsx:46
+msgid "Para que usamos os dados"
+msgstr "Wofür wir die Daten verwenden"
+
+#: src/pages/Privacidade.jsx:90
+msgid "pedir os dados num formato que possa levar para outra entidade;"
+msgstr "Ihre Daten in einem Format erhalten, das Sie an eine andere Stelle weitergeben können;"
+
+#: src/pages/Privacidade.jsx:88
+msgid "pedir que os apaguemos;"
+msgstr "die Löschung verlangen;"
+
+#: src/pages/Alojamento.jsx:65
+msgid "Pedra, madeira e vista para o rio"
+msgstr "Stein, Holz und Flussblick"
+
+#: src/data/vinhosTextos.js:19
+msgid "pH"
+msgstr "pH"
+
+#: src/pages/Adega.jsx:13
+#: src/pages/Alojamento.jsx:27
+msgid "Piscina"
+msgstr "Pool"
+
+#: src/pages/Privacidade.jsx:84
+msgid "Pode, a qualquer momento e sem custos:"
+msgstr "Sie können jederzeit und kostenlos:"
+
+#: src/components/Footer.jsx:44
+#: src/pages/Cookies.jsx:10
+msgid "Política de cookies"
+msgstr "Cookie-Richtlinie"
+
+#: src/data/metaTraduzida.js:39
+msgid "Política de cookies | {marca}"
+msgstr "Cookie-Richtlinie | {marca}"
+
+#: src/components/Footer.jsx:43
+#: src/pages/Privacidade.jsx:15
+msgid "Política de privacidade"
+msgstr "Datenschutzerklärung"
+
+#: src/data/metaTraduzida.js:35
+msgid "Política de privacidade | {marca}"
+msgstr "Datenschutzerklärung | {marca}"
+
+#: src/pages/Vinho.jsx:57
+msgid "Produtor"
+msgstr "Erzeuger"
+
+#: src/pages/Alojamento.jsx:42
+msgid "Quarto com cama de casal"
+msgstr "Schlafzimmer mit Doppelbett"
+
+#: src/pages/Alojamento.jsx:36
+msgid "Quarto com cama de casal e parede de rocha"
+msgstr "Schlafzimmer mit Doppelbett und Felswand"
+
+#: src/pages/Alojamento.jsx:39
+msgid "Quarto com parede de rocha natural"
+msgstr "Schlafzimmer mit natürlicher Felswand"
+
+#: src/data/metaTraduzida.js:40
+msgid "Que cookies e serviços de terceiros o site da {marca} usa."
+msgstr "Welche Cookies und Drittanbieterdienste die Website der {marca} verwendet."
+
+#: src/pages/Cookies.jsx:25
+msgid "Que cookies usamos"
+msgstr "Welche Cookies wir verwenden"
+
+#: src/pages/Privacidade.jsx:31
+msgid "Que dados recolhemos"
+msgstr "Welche Daten wir erheben"
+
+#: src/pages/Privacidade.jsx:22
+msgid "Quem é responsável pelos seus dados"
+msgstr "Wer für Ihre Daten verantwortlich ist"
+
+#: src/pages/Privacidade.jsx:73
+msgid "Quem tem acesso"
+msgstr "Wer Zugriff hat"
+
+#: src/components/Footer.jsx:19
+#: src/components/Header.jsx:15
+msgid "Quinta"
+msgstr "Weingut"
+
+#: src/components/Header.jsx:25
+msgid "Quinta da Coitada — início"
+msgstr "Quinta da Coitada — Startseite"
+
+#: src/data/metaTraduzida.js:16
+msgid "Quinta no Douro com vista para o rio, entre vinhas em socalcos. Conheça os vinhos da quinta e o alojamento local com piscina."
+msgstr "Ein Gut im Douro-Tal mit Flussblick, inmitten terrassierter Weinberge. Entdecken Sie die Weine des Guts und die Ferienunterkunft mit Pool."
+
+#: src/pages/Contactos.jsx:80
+msgid "Recebemos visitas com marcação. Para encomendas, distribuição ou imprensa, ligue-nos, envie um email ou use o formulário."
+msgstr "Besuche nach Vereinbarung. Für Bestellungen, Vertrieb oder Presse rufen Sie uns an, schreiben Sie uns eine E-Mail oder nutzen Sie das Formular."
+
+#: src/pages/Vinho.jsx:51
+msgid "Região"
+msgstr "Region"
+
+#: src/pages/Alojamento.jsx:90
+#: src/pages/Alojamento.jsx:93
+msgid "Reservar no"
+msgstr "Buchen bei"
+
+#: src/pages/Privacidade.jsx:91
+msgid "retirar o consentimento, sem que isso afete o tratamento feito até então."
+msgstr "Ihre Einwilligung widerrufen, ohne dass dies die bis dahin erfolgte Verarbeitung berührt."
+
+#: src/data/conteudo.js:6
+msgid "Sábado"
+msgstr "Samstag"
+
+#: src/pages/Privacidade.jsx:86
+msgid "saber que dados temos sobre si e pedir uma cópia;"
+msgstr "erfahren, welche Daten wir über Sie haben, und eine Kopie anfordern;"
+
+#: src/pages/Alojamento.jsx:22
+msgid "Sala de estar"
+msgstr "Wohnzimmer"
+
+#: src/App.jsx:54
+msgid "Saltar para o conteúdo"
+msgstr "Zum Inhalt springen"
+
+#: src/pages/Privacidade.jsx:110
+msgid "Se esta política mudar, publicamos aqui a nova versão e atualizamos a data no topo."
+msgstr "Wenn sich diese Richtlinie ändert, veröffentlichen wir hier die neue Fassung und aktualisieren das Datum oben."
+
+#: src/pages/Cookies.jsx:56
+msgid "Se passarmos a usar cookies (por exemplo, para estatísticas de visitas), atualizamos esta página e pedimos o seu consentimento antes de os ativar. Sobre o formulário de contacto, veja a <0>política de privacidade</0>."
+msgstr "Sollten wir künftig Cookies verwenden (zum Beispiel für Besucherstatistiken), aktualisieren wir diese Seite und holen vorher Ihre Einwilligung ein. Zum Kontaktformular siehe die <0>Datenschutzerklärung</0>."
+
+#: src/components/Galeria.jsx:39
+msgid "Seguinte"
+msgstr "Weiter"
+
+#: src/data/conteudo.js:5
+msgid "Segunda a sexta"
+msgstr "Montag bis Freitag"
+
+#: src/components/VerificacaoIdade.jsx:49
+msgid "Seja responsável. Beba com moderação."
+msgstr "Bitte genießen Sie verantwortungsvoll."
+
+#: src/pages/Contactos.jsx:71
+msgid "Sem ligação ao servidor. Tente mais tarde ou escreva para {email}."
+msgstr "Keine Verbindung zum Server. Bitte versuchen Sie es später erneut oder schreiben Sie an {email}."
+
+#: src/components/VerificacaoIdade.jsx:44
+msgid "Sim, tenho 18 anos ou mais"
+msgstr "Ja, ich bin mindestens 18 Jahre alt"
+
+#: src/pages/Privacidade.jsx:32
+msgid "Só recolhemos os dados que escreve no <0>formulário de contacto</0>:"
+msgstr "Wir erheben nur die Daten, die Sie in das <0>Kontaktformular</0> eingeben:"
+
+#: src/pages/Vinho.jsx:71
+msgid "Sulfitos"
+msgstr "Sulfite"
+
+#: src/pages/Vinho.jsx:91
+msgid "Também disponível na <0>caixa de oferta</0> da quinta."
+msgstr "Auch in der <0>Geschenkbox</0> des Weinguts erhältlich."
+
+#: src/pages/Contactos.jsx:130
+msgid "Telefone <0>(opcional)</0>"
+msgstr "Telefon <0>(optional)</0>"
+
+#: src/pages/Privacidade.jsx:36
+msgid "telefone, se o indicar (é opcional);"
+msgstr "Telefonnummer, falls angegeben (optional);"
+
+#: src/components/VerificacaoIdade.jsx:41
+msgid "Tem 18 anos ou mais?"
+msgstr "Sind Sie mindestens 18 Jahre alt?"
+
+#: src/pages/Vinho.jsx:56
+msgid "Temperatura de serviço"
+msgstr "Serviertemperatur"
+
+#: src/pages/Vinho.jsx:55
+msgid "Teor alcoólico"
+msgstr "Alkoholgehalt"
+
+#: src/pages/Alojamento.jsx:28
+msgid "Terraço, varanda e jardim"
+msgstr "Terrasse, Balkon und Garten"
+
+#: src/data/vinhosTextos.js:13
+msgid "Tinto"
+msgstr "Rot"
+
+#: src/pages/Vinho.jsx:50
+msgid "Tipo"
+msgstr "Typ"
+
+#: src/pages/Alojamento.jsx:25
+msgid "Toalhas e roupa de cama"
+msgstr "Handtücher und Bettwäsche"
+
+#: src/pages/Noticia.jsx:40
+msgid "Todas as novidades"
+msgstr "Alle Neuigkeiten"
+
+#: src/data/vinhosTextos.js:6
+msgid "Todos"
+msgstr "Alle"
+
+#: src/pages/Cookies.jsx:15
+#: src/pages/Privacidade.jsx:20
+msgid "Última atualização: 21 de outubro de 2026"
+msgstr "Zuletzt aktualisiert: 21. Oktober 2026"
+
+#: src/pages/Adega.jsx:24
+msgid "Uma casa de pedra entre vinhas em socalcos, com vista para o rio Douro. Para conhecer os vinhos da quinta ou ficar uns dias."
+msgstr "Ein Steinhaus inmitten terrassierter Weinberge mit Blick auf den Douro. Um die Weine des Guts kennenzulernen oder ein paar Tage zu bleiben."
+
+#: src/pages/Adega.jsx:79
+msgid "Uma moradia com dois quartos, cozinha equipada, piscina e varanda virada para o Douro."
+msgstr "Eine Villa mit zwei Schlafzimmern, ausgestatteter Küche, Pool und Balkon zum Douro."
+
+#: src/pages/Alojamento.jsx:53
+msgid "Uma moradia com vista para a piscina e para o Douro, com terraço, varanda, jardim e estacionamento privado gratuito."
+msgstr "Eine Villa mit Blick auf den Pool und den Douro, mit Terrasse, Balkon, Garten und kostenlosen Privatparkplätzen."
+
+#: src/pages/Privacidade.jsx:48
+msgid "Usamos os dados apenas para responder ao seu pedido: marcar visitas e provas, tratar de encomendas e distribuição, ou responder a pedidos de imprensa. Não os usamos para enviar publicidade nem os vendemos ou cedemos a terceiros para esse fim."
+msgstr "Wir verwenden die Daten ausschließlich zur Beantwortung Ihrer Anfrage: für die Buchung von Besuchen und Verkostungen, die Abwicklung von Bestellungen und Vertrieb oder die Beantwortung von Presseanfragen. Wir nutzen sie nicht für Werbung und verkaufen oder übermitteln sie zu diesem Zweck nicht an Dritte."
+
+#: src/data/vinhosTextos.js:23
+msgid "Valor energético"
+msgstr "Brennwert"
+
+#: src/pages/Alojamento.jsx:86
+msgid "Veja as datas livres e reserve no Booking.com ou no Airbnb. Para outras questões, <0>fale connosco</0>."
+msgstr "Freie Termine ansehen und über Booking.com oder Airbnb buchen. Für alles andere <0>schreiben Sie uns</0>."
+
+#: src/pages/Vinho.jsx:118
+msgid "Ver ficha técnica"
+msgstr "Technisches Datenblatt ansehen"
+
+#. placeholder {0}: n + 1
+#: src/pages/Vinho.jsx:23
+msgid "Ver fotografia {0}"
+msgstr "Foto {0} ansehen"
+
+#: src/pages/Adega.jsx:83
+msgid "Ver o alojamento"
+msgstr "Unterkunft ansehen"
+
+#: src/pages/Adega.jsx:90
+msgid "Ver os vinhos"
+msgstr "Die Weine ansehen"
+
+#: src/pages/Adega.jsx:13
+msgid "Vinha em socalcos"
+msgstr "Terrassierte Weinberge"
+
+#: src/data/metaTraduzida.js:66
+msgid "Vinho {cor}"
+msgstr "{cor}wein"
+
+#: src/components/Footer.jsx:20
+#: src/components/Header.jsx:16
+#: src/pages/Vinho.jsx:77
+msgid "Vinhos"
+msgstr "Weine"
+
+#: src/data/metaTraduzida.js:19
+msgid "Vinhos | {marca}"
+msgstr "Weine | {marca}"
+
+#: src/pages/Vinhos.jsx:34
+msgid "Vinhos do Douro de uma só encosta: o Xisto Grande Reserva das vinhas velhas, o Coitada Reserva, os Socalco tinto e branco para todos os dias, e tinto e branco em bag-in-box."
+msgstr "Douro-Weine von einem einzigen Hang: der Xisto Grande Reserva aus alten Reben, der Coitada Reserva, Socalco rot und weiß für jeden Tag sowie Rot- und Weißwein im Bag-in-Box."
+
+#: src/pages/Contactos.jsx:12
+msgid "Visitas e provas"
+msgstr "Besuche und Verkostungen"
+
+#: src/pages/Contactos.jsx:79
+msgid "Visite-nos ou escreva-nos"
+msgstr "Besuchen Sie uns oder schreiben Sie uns"
+
+#: src/pages/Alojamento.jsx:60
+msgid "Vista da casa sobre o rio Douro e as vinhas em socalcos"
+msgstr "Blick vom Haus auf den Douro und die Weinbergterrassen"
+
+#: src/pages/Adega.jsx:13
+msgid "Vista para o rio"
+msgstr "Flussblick"
+
+#: src/pages/Adega.jsx:69
+msgid "Vista sobre o telhado da casa para o rio Douro"
+msgstr "Blick über das Dach des Hauses auf den Douro"
+
+#: src/components/VerificacaoIdade.jsx:36
+msgid "Voltar"
+msgstr "Zurück"
+
+#: src/data/metaTraduzida.js:20
+msgid "Xisto Grande Reserva, Coitada Reserva, Socalco tinto e branco Douro DOC, e tinto e branco em bag-in-box. Fichas técnicas e notas de prova."
+msgstr "Xisto Grande Reserva, Coitada Reserva, Socalco rot und weiß Douro DOC sowie Rot- und Weißwein im Bag-in-Box. Technische Datenblätter und Verkostungsnotizen."

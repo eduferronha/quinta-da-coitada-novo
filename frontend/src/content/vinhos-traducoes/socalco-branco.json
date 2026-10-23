@@ -1,0 +1,26 @@
+{
+  "en": {
+    "descricao": "A high-altitude white from the north-facing vines.",
+    "prova": "Citrine. Lemon, orange blossom and a mineral edge. Lively, saline palate.",
+    "harmonizacao": "Grilled fish, seafood, salads.",
+    "descricao_foto": "Bottle of Socalco Branco on a light background"
+  },
+  "fr": {
+    "descricao": "Un blanc d’altitude, issu des vignes exposées au nord.",
+    "prova": "Citrin. Citron, fleur d’oranger et une note minérale. Bouche vive et saline.",
+    "harmonizacao": "Poisson grillé, fruits de mer, salades.",
+    "descricao_foto": "Bouteille de Socalco Branco sur fond clair"
+  },
+  "es": {
+    "descricao": "Blanco de altura, de las viñas orientadas al norte.",
+    "prova": "Citrino. Limón, azahar y un fondo mineral. Boca viva y salina.",
+    "harmonizacao": "Pescado a la brasa, marisco, ensaladas.",
+    "descricao_foto": "Botella de Socalco Branco sobre fondo claro"
+  },
+  "de": {
+    "descricao": "Ein Weißwein aus der Höhe, von den nach Norden ausgerichteten Reben.",
+    "prova": "Zitronengelb. Zitrone, Orangenblüte und ein mineralischer Ton. Lebendiger, salziger Gaumen.",
+    "harmonizacao": "Gegrillter Fisch, Meeresfrüchte, Salate.",
+    "descricao_foto": "Flasche Socalco Branco vor hellem Hintergrund"
+  }
+}

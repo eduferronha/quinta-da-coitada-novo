@@ -1,0 +1,26 @@
+{
+  "en": {
+    "descricao": "The everyday red, fresh and easy to drink.",
+    "prova": "Ruby. Red fruit and a floral touch. Light palate, soft tannins.",
+    "harmonizacao": "Tapas, cured meats, pizza.",
+    "descricao_foto": "Bottle of Socalco Tinto on a dark background"
+  },
+  "fr": {
+    "descricao": "Le rouge de tous les jours, frais et facile à boire.",
+    "prova": "Rubis. Fruits rouges et une touche florale. Bouche légère, tanins souples.",
+    "harmonizacao": "Petites bouchées, charcuterie, pizza.",
+    "descricao_foto": "Bouteille de Socalco Tinto sur fond sombre"
+  },
+  "es": {
+    "descricao": "El tinto de cada día, fresco y fácil de beber.",
+    "prova": "Rubí. Frutos rojos y un toque floral. Boca ligera, taninos suaves.",
+    "harmonizacao": "Tapas, embutidos, pizza.",
+    "descricao_foto": "Botella de Socalco Tinto sobre fondo oscuro"
+  },
+  "de": {
+    "descricao": "Der Rotwein für jeden Tag, frisch und unkompliziert.",
+    "prova": "Rubinrot. Rote Früchte und ein floraler Hauch. Leichter Gaumen, weiche Tannine.",
+    "harmonizacao": "Häppchen, Wurstwaren, Pizza.",
+    "descricao_foto": "Flasche Socalco Tinto vor dunklem Hintergrund"
+  }
+}

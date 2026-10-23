@@ -1,0 +1,27 @@
+{
+  "ordem": 30,
+  "nome": "Socalco Tinto",
+  "categoria": "garrafa",
+  "cor": "tinto",
+  "colheita": 2023,
+  "regiao": "Douro DOC",
+  "formato": "750 ml",
+  "alcool": 13.5,
+  "produtor": "Coitada Vinhos, Lda",
+  "castas": [
+    "Touriga Franca",
+    "Tinta Barroca"
+  ],
+  "temperatura": {
+    "min": 15,
+    "max": 17
+  },
+  "fotos": [
+    "/img/vinhos/socalco-tinto.jpg",
+    "/img/vinhos/socalco-tinto-fundo-claro.jpg"
+  ],
+  "descricao_foto": "Garrafa de Socalco Tinto sobre fundo escuro",
+  "descricao": "O tinto de todos os dias, fresco e fácil de beber.",
+  "prova": "Rubi. Frutos vermelhos e um toque floral. Boca leve, taninos macios.",
+  "harmonizacao": "Petiscos, enchidos, pizza."
+}

@@ -1,0 +1,18 @@
+# Dependências e builds
+node_modules/
+frontend/dist/
+
+# Python
+__pycache__/
+*.pyc
+backend/venv-quinta-videira/
+.venv/
+
+# Segredos e dados (nunca enviar para o GitHub)
+.env
+backend/mensagens.db
+
+# Sistema / editores
+.DS_Store
+Thumbs.db
+.vscode/

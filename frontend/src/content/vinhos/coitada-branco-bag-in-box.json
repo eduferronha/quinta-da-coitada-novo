@@ -1,0 +1,14 @@
+{
+  "ordem": 60,
+  "nome": "Coitada Branco Bag-in-box",
+  "categoria": "bag-in-box",
+  "cor": "branco",
+  "formato": "5 L",
+  "alcool": 12,
+  "produtor": "Coitada Vinhos, Lda",
+  "fotos": [
+    "/img/vinhos/coitada-branco-bag-in-box.jpg"
+  ],
+  "descricao_foto": "Caixa bag-in-box clara de 5 litros de Coitada Vinho Branco",
+  "descricao": "O nosso branco de mesa em caixa de 5 litros, com torneira."
+}

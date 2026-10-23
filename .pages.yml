@@ -1,0 +1,224 @@
+# Configuração do Pages CMS (app.pagescms.org) — gestão dos vinhos e das notícias pelo cliente.
+# O cliente é convidado por email (não precisa de conta GitHub). Ao guardar, o Pages CMS faz commit
+# no GitHub e o Cloudflare Pages publica o site em 1–2 minutos.
+#
+# Cada vinho é um JSON em frontend/src/content/vinhos/, só em português.
+# As traduções (EN, FR, ES, DE) estão à parte em frontend/src/content/vinhos-traducoes/ e não passam pelo CMS:
+# um vinho sem tradução aparece em português nas outras línguas.
+#
+# Notícias: um JSON por notícia em frontend/src/content/noticias/ (traduções opcionais em noticias-traducoes/).
+# O link "Notícias" só aparece no site quando há pelo menos uma notícia publicada.
+
+media:
+- name: vinhos
+  label: Fotografias dos vinhos
+  input: frontend/public/img/vinhos
+  output: /img/vinhos
+  rename: safe
+- name: noticias
+  label: Imagens das notícias
+  input: frontend/public/img/noticias
+  output: /img/noticias
+  rename: safe
+content:
+- name: vinhos
+  label: Vinhos
+  type: collection
+  path: frontend/src/content/vinhos
+  format: json
+  filename:
+    template: '{primary}.json'
+    field: create
+  view:
+    primary: nome
+    fields:
+    - nome
+    - categoria
+    - formato
+    - ordem
+    search:
+    - nome
+  fields:
+  - name: nome
+    label: Nome
+    type: string
+    required: true
+    description: 'Nome do vinho como aparece no rótulo (ex.: Socalco Tinto).'
+  - name: ordem
+    label: Ordem na lista
+    type: number
+    description: Os vinhos aparecem do número mais baixo para o mais alto (10, 20, 30…).
+  - name: categoria
+    label: Categoria
+    type: select
+    required: true
+    options:
+      values:
+      - name: garrafa
+        label: Garrafa
+      - name: bag-in-box
+        label: Bag-in-box
+      - name: caixa
+        label: Caixa de oferta
+  - name: cor
+    label: Tipo
+    type: select
+    description: Deixar vazio nas caixas de oferta.
+    options:
+      values:
+      - name: tinto
+        label: Tinto
+      - name: branco
+        label: Branco
+  - name: colheita
+    label: Colheita (ano)
+    type: number
+  - name: regiao
+    label: Região
+    type: string
+    description: 'Ex.: Douro DOC'
+  - name: formato
+    label: Formato
+    type: string
+    description: 'Ex.: 750 ml, 3 L, 3 × 750 ml'
+  - name: alcool
+    label: Teor alcoólico (%)
+    type: number
+  - name: produtor
+    label: Produtor
+    type: string
+  - name: castas
+    label: Castas
+    type: string
+    list: true
+  - name: temperatura
+    label: Temperatura de serviço (ºC)
+    type: object
+    fields:
+    - name: min
+      label: Mínima
+      type: number
+    - name: max
+      label: Máxima
+      type: number
+  - name: fotos
+    label: Fotografias
+    type: image
+    required: true
+    description: A primeira é a que aparece na lista de vinhos. Fotografias verticais, de preferência com fundo escuro.
+    options:
+      multiple: true
+      media: vinhos
+  - name: descricao_foto
+    label: Descrição da fotografia
+    type: string
+    description: 'Para quem não vê a imagem (ex.: Garrafa de Socalco Tinto sobre fundo escuro).'
+  - name: ficha
+    label: Ficha técnica (imagem ou PDF)
+    type: file
+    options:
+      categories:
+      - image
+      - document
+      media: vinhos
+  - name: descricao
+    label: Descrição curta
+    type: text
+  - name: estagio
+    label: Estágio
+    type: string
+  - name: prova
+    label: Notas de prova
+    type: text
+  - name: harmonizacao
+    label: À mesa com
+    type: text
+  - name: conservacao
+    label: Conservação
+    type: text
+  - name: analise
+    label: Análise (ficha técnica)
+    type: object
+    fields:
+    - name: extratoSeco
+      label: Extrato seco (g/dm³)
+      type: number
+    - name: ph
+      label: pH
+      type: number
+    - name: acidezTotal
+      label: Acidez total (g/dm³)
+      type: number
+    - name: acidezVolatil
+      label: Acidez volátil (g/dm³)
+      type: number
+    - name: acucarResidual
+      label: Açúcar residual (g/dm³)
+      type: number
+    - name: valorEnergetico
+      label: Valor energético (kcal/100 ml)
+      type: number
+  - name: inclui
+    label: Vinhos incluídos (só caixas de oferta)
+    type: reference
+    options:
+      collection: vinhos
+      multiple: true
+      value: '{path}'
+      label: '{primary}'
+- name: noticias
+  label: Notícias
+  type: collection
+  path: frontend/src/content/noticias
+  format: json
+  filename:
+    template: '{primary}.json'
+    field: create
+  view:
+    primary: titulo
+    fields:
+    - titulo
+    - data
+    - publicado
+    sort:
+    - data
+    - titulo
+    default:
+      sort: data
+      order: desc
+    search:
+    - titulo
+  fields:
+  - name: titulo
+    label: Título
+    type: string
+    required: true
+  - name: data
+    label: Data
+    type: date
+    required: true
+    description: Data da notícia. As notícias aparecem da mais recente para a mais antiga.
+  - name: publicado
+    label: Publicada
+    type: boolean
+    default: true
+    description: Desligar para guardar como rascunho (não aparece no site).
+  - name: imagem
+    label: Imagem
+    type: image
+    options:
+      media: noticias
+    description: Imagem principal (horizontal, de preferência).
+  - name: descricao_imagem
+    label: Descrição da imagem
+    type: string
+    description: Para quem não vê a imagem.
+  - name: resumo
+    label: Resumo
+    type: text
+    description: 1–2 frases. Aparece na lista de notícias e nas pré-visualizações (Google, WhatsApp).
+  - name: corpo
+    label: Texto
+    type: text
+    required: true
+    description: Texto da notícia. Separe os parágrafos com uma linha em branco.

@@ -1,0 +1,37 @@
+{
+  "ordem": 10,
+  "nome": "Xisto Grande Reserva",
+  "categoria": "garrafa",
+  "cor": "tinto",
+  "colheita": 2020,
+  "regiao": "Douro DOC",
+  "formato": "750 ml",
+  "alcool": 14.5,
+  "produtor": "Coitada Vinhos, Lda",
+  "castas": [
+    "Touriga Nacional",
+    "Sousão",
+    "Tinta Francisca"
+  ],
+  "temperatura": {
+    "min": 16,
+    "max": 18
+  },
+  "fotos": [
+    "/img/vinhos/xisto-grande-reserva.jpg"
+  ],
+  "analise": {
+    "extratoSeco": 33.1,
+    "ph": 3.62,
+    "acidezTotal": 5.4,
+    "acidezVolatil": 0.55,
+    "acucarResidual": 0.8,
+    "valorEnergetico": 85
+  },
+  "descricao_foto": "Garrafa de Xisto Grande Reserva, rótulo preto, sobre fundo escuro",
+  "descricao": "Só nos melhores anos, das vinhas velhas do Socalco Velho.",
+  "estagio": "20 meses em barricas de carvalho francês.",
+  "prova": "Granada profundo. Fruta preta, esteva e grafite do xisto. Boca firme e longa, com taninos finos e muita frescura.",
+  "harmonizacao": "Cabrito assado, caça, queijos de pasta dura.",
+  "conservacao": "Conservar deitado, ao abrigo da luz, a temperatura constante."
+}

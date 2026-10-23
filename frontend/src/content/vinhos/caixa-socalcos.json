@@ -1,0 +1,17 @@
+{
+  "ordem": 70,
+  "nome": "Caixa Socalcos",
+  "categoria": "caixa",
+  "regiao": "Douro",
+  "formato": "3 × 750 ml",
+  "fotos": [
+    "/img/vinhos/caixa-socalcos.jpg"
+  ],
+  "descricao_foto": "Caixa de madeira com três garrafas: Socalco Branco, Socalco Tinto e Coitada Reserva",
+  "descricao": "Caixa de madeira com três vinhos da encosta: Socalco Branco, Socalco Tinto e Coitada Reserva.",
+  "inclui": [
+    "socalco-branco",
+    "socalco-tinto",
+    "coitada-reserva"
+  ]
+}

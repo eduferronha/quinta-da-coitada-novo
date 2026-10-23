@@ -1,0 +1,36 @@
+{
+  "ordem": 20,
+  "nome": "Coitada Reserva",
+  "categoria": "garrafa",
+  "cor": "tinto",
+  "colheita": 2021,
+  "regiao": "Douro DOC",
+  "formato": "750 ml",
+  "alcool": 14,
+  "produtor": "Coitada Vinhos, Lda",
+  "castas": [
+    "Touriga Franca",
+    "Tinta Roriz",
+    "Touriga Nacional"
+  ],
+  "temperatura": {
+    "min": 16,
+    "max": 18
+  },
+  "fotos": [
+    "/img/vinhos/coitada-reserva.jpg"
+  ],
+  "analise": {
+    "extratoSeco": 31.0,
+    "ph": 3.68,
+    "acidezTotal": 5.1,
+    "acidezVolatil": 0.5,
+    "acucarResidual": 0.7,
+    "valorEnergetico": 83
+  },
+  "descricao_foto": "Garrafa de Coitada Reserva, cápsula terracota, sobre fundo escuro",
+  "descricao": "O vinho que deu nome à casa, das parcelas mais altas da encosta.",
+  "estagio": "12 meses em barricas usadas.",
+  "prova": "Rubi escuro. Ameixa, violeta e especiarias suaves. Boca redonda, equilibrada, de final persistente.",
+  "harmonizacao": "Carnes vermelhas grelhadas, arroz de pato."
+}

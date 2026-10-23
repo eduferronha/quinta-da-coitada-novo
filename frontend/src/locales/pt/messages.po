@@ -1,0 +1,879 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-21 18:30+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: @lingui/cli\n"
+
+#: src/data/metaTraduzida.js:66
+msgid "{cor} em bag-in-box"
+msgstr "{cor} em bag-in-box"
+
+#: src/data/conteudo.js:5
+msgid "09h00 – 12h30 · 14h00 – 18h00"
+msgstr "09h00 – 12h30 · 14h00 – 18h00"
+
+#: src/data/conteudo.js:6
+msgid "10h00 – 13h00"
+msgstr "10h00 – 13h00"
+
+#: src/pages/Alojamento.jsx:24
+msgid "2 casas de banho com duche e produtos de higiene"
+msgstr "2 casas de banho com duche e produtos de higiene"
+
+#: src/pages/Alojamento.jsx:21
+msgid "2 quartos"
+msgstr "2 quartos"
+
+#: src/pages/Alojamento.jsx:64
+msgid "A casa"
+msgstr "A casa"
+
+#: src/pages/Contactos.jsx:155
+msgid "A enviar…"
+msgstr "A enviar…"
+
+#: src/pages/Vinho.jsx:103
+msgid "À mesa com"
+msgstr "À mesa com"
+
+#: src/pages/Alojamento.jsx:67
+msgid "A moradia tem dois quartos, sala de estar, cozinha totalmente equipada e duas casas de banho. As paredes de pedra e rocha natural ficaram à vista em quase todas as divisões."
+msgstr "A moradia tem dois quartos, sala de estar, cozinha totalmente equipada e duas casas de banho. As paredes de pedra e rocha natural ficaram à vista em quase todas as divisões."
+
+#: src/pages/Adega.jsx:43
+msgid "A quinta"
+msgstr "A quinta"
+
+#: src/pages/Adega.jsx:48
+msgid "A Quinta da Coitada fica no Douro vinhateiro, numa encosta de vinha em socalcos virada para o rio."
+msgstr "A Quinta da Coitada fica no Douro vinhateiro, numa encosta de vinha em socalcos virada para o rio."
+
+#: src/data/vinhosTextos.js:20
+msgid "Acidez total"
+msgstr "Acidez total"
+
+#: src/data/vinhosTextos.js:21
+msgid "Acidez volátil"
+msgstr "Acidez volátil"
+
+#: src/data/vinhosTextos.js:22
+msgid "Açúcar residual"
+msgstr "Açúcar residual"
+
+#: src/pages/Noticias.jsx:20
+msgid "Ainda não há novidades."
+msgstr "Ainda não há novidades."
+
+#: src/pages/Vinho.jsx:71
+msgid "Alergénicos"
+msgstr "Alergénicos"
+
+#: src/components/Footer.jsx:21
+#: src/components/Header.jsx:17
+#: src/pages/Adega.jsx:76
+#: src/pages/Contactos.jsx:13
+msgid "Alojamento"
+msgstr "Alojamento"
+
+#: src/data/metaTraduzida.js:23
+msgid "Alojamento | {marca}"
+msgstr "Alojamento | {marca}"
+
+#: src/pages/Adega.jsx:13
+#: src/pages/Alojamento.jsx:50
+msgid "Alojamento Local"
+msgstr "Alojamento Local"
+
+#: src/pages/Alojamento.jsx:38
+msgid "Alpendre de madeira com vista para o vale"
+msgstr "Alpendre de madeira com vista para o vale"
+
+#: src/pages/Adega.jsx:74
+msgid "Alpendre de madeira da casa, com vista para o vale"
+msgstr "Alpendre de madeira da casa, com vista para o vale"
+
+#: src/pages/Cookies.jsx:54
+#: src/pages/Privacidade.jsx:109
+msgid "Alterações"
+msgstr "Alterações"
+
+#. placeholder {0}: f.alt
+#: src/components/Galeria.jsx:28
+msgid "Ampliar: {0}"
+msgstr "Ampliar: {0}"
+
+#: src/pages/Vinho.jsx:108
+msgid "Análise"
+msgstr "Análise"
+
+#: src/components/Galeria.jsx:38
+msgid "Anterior"
+msgstr "Anterior"
+
+#: src/pages/Adega.jsx:54
+msgid "Aqui faz-se vinho e recebem-se hóspedes: a casa da quinta tem paredes de pedra, piscina, terraço e varanda sobre o vale."
+msgstr "Aqui faz-se vinho e recebem-se hóspedes: a casa da quinta tem paredes de pedra, piscina, terraço e varanda sobre o vale."
+
+#: src/pages/Alojamento.jsx:26
+msgid "Ar condicionado"
+msgstr "Ar condicionado"
+
+#: src/pages/Cookies.jsx:40
+msgid "As fotografias e os tipos de letra são servidos pelo próprio site, sem pedidos a serviços de terceiros."
+msgstr "As fotografias e os tipos de letra são servidos pelo próprio site, sem pedidos a serviços de terceiros."
+
+#: src/pages/Cookies.jsx:45
+msgid "As ligações para o Instagram, o Google Maps e o Livro de Reclamações abrem esses serviços, que podem usar os seus próprios cookies. Consulte as políticas de cada um."
+msgstr "As ligações para o Instagram, o Google Maps e o Livro de Reclamações abrem esses serviços, que podem usar os seus próprios cookies. Consulte as políticas de cada um."
+
+#: src/pages/Privacidade.jsx:75
+msgid "As mensagens são lidas apenas por quem trabalha na quinta. São encaminhadas para o nosso email por um serviço de envio de formulários e ficam guardadas na nossa caixa de correio. Estas empresas tratam os dados por nossa conta e não os podem usar para outros fins. Se algum destes prestadores estiver fora do Espaço Económico Europeu, a transferência é feita com as garantias exigidas pelo RGPD."
+msgstr "As mensagens são lidas apenas por quem trabalha na quinta. São encaminhadas para o nosso email por um serviço de envio de formulários e ficam guardadas na nossa caixa de correio. Estas empresas tratam os dados por nossa conta e não os podem usar para outros fins. Se algum destes prestadores estiver fora do Espaço Económico Europeu, a transferência é feita com as garantias exigidas pelo RGPD."
+
+#: src/pages/Contactos.jsx:135
+msgid "Assunto"
+msgstr "Assunto"
+
+#: src/pages/Privacidade.jsx:37
+msgid "assunto e mensagem."
+msgstr "assunto e mensagem."
+
+#: src/pages/Contactos.jsx:148
+msgid "Autorizo a recolha e tratamento dos meus dados pessoais para responder a esta mensagem. Saiba mais na <0>política de privacidade</0>."
+msgstr "Autorizo a recolha e tratamento dos meus dados pessoais para responder a esta mensagem. Saiba mais na <0>política de privacidade</0>."
+
+#: src/data/vinhosTextos.js:8
+msgid "Bag-in-box"
+msgstr "Bag-in-box"
+
+#: src/data/vinhosTextos.js:14
+msgid "Branco"
+msgstr "Branco"
+
+#: src/data/vinhosTextos.js:9
+msgid "Caixa de oferta"
+msgstr "Caixa de oferta"
+
+#: src/data/metaTraduzida.js:62
+msgid "Caixa de oferta em madeira com vinhos do Douro: {nomes}."
+msgstr "Caixa de oferta em madeira com vinhos do Douro: {nomes}."
+
+#: src/pages/Noticia.jsx:20
+#: src/pages/Vinho.jsx:76
+msgid "Caminho"
+msgstr "Caminho"
+
+#: src/pages/Alojamento.jsx:44
+msgid "Casa de banho com lavatório de pedra"
+msgstr "Casa de banho com lavatório de pedra"
+
+#: src/pages/Adega.jsx:13
+msgid "Casa em pedra"
+msgstr "Casa em pedra"
+
+#: src/pages/Vinho.jsx:53
+msgid "Castas"
+msgstr "Castas"
+
+#: src/data/metaTraduzida.js:69
+msgid "Castas: {lista}."
+msgstr "Castas: {lista}."
+
+#: src/components/Footer.jsx:41
+#: src/pages/Contactos.jsx:101
+msgid "Chamada para a rede móvel nacional."
+msgstr "Chamada para a rede móvel nacional."
+
+#: src/pages/Vinho.jsx:52
+msgid "Colheita"
+msgstr "Colheita"
+
+#: src/pages/Privacidade.jsx:55
+msgid "Com que fundamento"
+msgstr "Com que fundamento"
+
+#: src/data/metaTraduzida.js:36
+msgid "Como a {marca} trata os dados pessoais enviados pelo formulário de contacto."
+msgstr "Como a {marca} trata os dados pessoais enviados pelo formulário de contacto."
+
+#: src/pages/Cookies.jsx:51
+msgid "Como controlar os cookies"
+msgstr "Como controlar os cookies"
+
+#: src/pages/Privacidade.jsx:16
+msgid "Como tratamos os dados pessoais que nos envia pelo formulário de contacto."
+msgstr "Como tratamos os dados pessoais que nos envia pelo formulário de contacto."
+
+#: src/pages/Adega.jsx:29
+msgid "Conhecer a quinta"
+msgstr "Conhecer a quinta"
+
+#: src/pages/Vinho.jsx:104
+msgid "Conservação"
+msgstr "Conservação"
+
+#: src/components/Footer.jsx:23
+#: src/components/Header.jsx:20
+#: src/pages/Contactos.jsx:91
+msgid "Contactos"
+msgstr "Contactos"
+
+#: src/data/metaTraduzida.js:31
+msgid "Contactos e visitas | {marca}"
+msgstr "Contactos e visitas | {marca}"
+
+#: src/pages/Cookies.jsx:19
+msgid "Cookies são pequenos ficheiros que um site guarda no seu browser para se lembrar de si entre visitas, medir audiências ou mostrar publicidade."
+msgstr "Cookies são pequenos ficheiros que um site guarda no seu browser para se lembrar de si entre visitas, medir audiências ou mostrar publicidade."
+
+#: src/pages/Privacidade.jsx:87
+msgid "corrigir dados errados ou incompletos;"
+msgstr "corrigir dados errados ou incompletos;"
+
+#: src/pages/Alojamento.jsx:43
+msgid "Cozinha com frigorífico e placa"
+msgstr "Cozinha com frigorífico e placa"
+
+#: src/pages/Alojamento.jsx:37
+msgid "Cozinha e mesa de jantar, com paredes de pedra"
+msgstr "Cozinha e mesa de jantar, com paredes de pedra"
+
+#: src/pages/Alojamento.jsx:23
+msgid "Cozinha equipada, com frigorífico e máquina de café"
+msgstr "Cozinha equipada, com frigorífico e máquina de café"
+
+#: src/data/conteudo.js:7
+msgid "Domingos e feriados"
+msgstr "Domingos e feriados"
+
+#: src/pages/Adega.jsx:13
+msgid "Douro"
+msgstr "Douro"
+
+#: src/pages/Vinhos.jsx:31
+msgid "Douro DOC"
+msgstr "Douro DOC"
+
+#: src/pages/Alojamento.jsx:40
+msgid "Duche com paredes de pedra"
+msgstr "Duche com paredes de pedra"
+
+#: src/pages/Privacidade.jsx:64
+msgid "Durante quanto tempo os guardamos"
+msgstr "Durante quanto tempo os guardamos"
+
+#: src/pages/Adega.jsx:60
+msgid "É um bom ponto de partida para o Douro: o Museu do Douro, o Museu do Vinho de São João da Pesqueira e o Palácio de Mateus ficam a menos de 50 km."
+msgstr "É um bom ponto de partida para o Douro: o Museu do Douro, o Museu do Vinho de São João da Pesqueira e o Palácio de Mateus ficam a menos de 50 km."
+
+#: src/pages/Cookies.jsx:52
+msgid "Em qualquer site, pode ver e apagar cookies nas definições do seu browser, ou bloqueá-los por completo."
+msgstr "Em qualquer site, pode ver e apagar cookies nas definições do seu browser, ou bloqueá-los por completo."
+
+#: src/pages/Contactos.jsx:126
+msgid "Email"
+msgstr "Email"
+
+#: src/pages/Privacidade.jsx:35
+msgid "email;"
+msgstr "email;"
+
+#: src/data/conteudo.js:7
+msgid "Encerrado"
+msgstr "Encerrado"
+
+#: src/pages/Contactos.jsx:14
+msgid "Encomendas e distribuição"
+msgstr "Encomendas e distribuição"
+
+#: src/pages/Adega.jsx:44
+msgid "Entre a vinha e o rio"
+msgstr "Entre a vinha e o rio"
+
+#: src/pages/Contactos.jsx:117
+#: src/pages/Contactos.jsx:155
+msgid "Enviar mensagem"
+msgstr "Enviar mensagem"
+
+#: src/pages/Contactos.jsx:137
+msgid "Escolha um assunto"
+msgstr "Escolha um assunto"
+
+#: src/pages/NotFound.jsx:7
+msgid "Esta página não existe"
+msgstr "Esta página não existe"
+
+#: src/pages/Alojamento.jsx:29
+msgid "Estacionamento privado gratuito"
+msgstr "Estacionamento privado gratuito"
+
+#: src/pages/Vinho.jsx:54
+msgid "Estágio"
+msgstr "Estágio"
+
+#: src/components/VerificacaoIdade.jsx:42
+msgid "Este site contém informação sobre bebidas alcoólicas. Para entrar, confirme que tem idade legal para as consumir."
+msgstr "Este site contém informação sobre bebidas alcoólicas. Para entrar, confirme que tem idade legal para as consumir."
+
+#: src/pages/Cookies.jsx:11
+msgid "Este site não usa cookies. Explicamos aqui o que isso quer dizer."
+msgstr "Este site não usa cookies. Explicamos aqui o que isso quer dizer."
+
+#: src/data/vinhosTextos.js:18
+msgid "Extrato seco"
+msgstr "Extrato seco"
+
+#: src/pages/Alojamento.jsx:85
+msgid "Faça a sua reserva"
+msgstr "Faça a sua reserva"
+
+#: src/components/Footer.jsx:31
+#: src/pages/Adega.jsx:94
+msgid "Falar connosco"
+msgstr "Falar connosco"
+
+#: src/components/Galeria.jsx:37
+#: src/components/Header.jsx:41
+msgid "Fechar"
+msgstr "Fechar"
+
+#: src/pages/Adega.jsx:77
+#: src/pages/Alojamento.jsx:51
+msgid "Ficar na quinta"
+msgstr "Ficar na quinta"
+
+#: src/pages/Vinho.jsx:95
+msgid "Ficha técnica"
+msgstr "Ficha técnica"
+
+#: src/data/metaTraduzida.js:70
+msgid "Ficha técnica e notas de prova."
+msgstr "Ficha técnica e notas de prova."
+
+#: src/pages/Vinhos.jsx:41
+msgid "Filtrar por formato"
+msgstr "Filtrar por formato"
+
+#: src/pages/Vinho.jsx:49
+msgid "Formato"
+msgstr "Formato"
+
+#: src/components/Placeholder.jsx:15
+msgid "Fotografia: {legenda}"
+msgstr "Fotografia: {legenda}"
+
+#: src/pages/Alojamento.jsx:79
+#: src/pages/Vinho.jsx:20
+msgid "Fotografias"
+msgstr "Fotografias"
+
+#: src/data/vinhosTextos.js:7
+msgid "Garrafa"
+msgstr "Garrafa"
+
+#: src/pages/Contactos.jsx:16
+msgid "Geral"
+msgstr "Geral"
+
+#: src/pages/Privacidade.jsx:66
+msgid "Guardamos as mensagens durante o tempo necessário para tratar o seu pedido e, no máximo, dois anos após o último contacto. Depois disso são apagadas, exceto se a lei nos obrigar a guardá-las por mais tempo (por exemplo, quando dão origem a uma venda faturada)."
+msgstr "Guardamos as mensagens durante o tempo necessário para tratar o seu pedido e, no máximo, dois anos após o último contacto. Depois disso são apagadas, exceto se a lei nos obrigar a guardá-las por mais tempo (por exemplo, quando dão origem a uma venda faturada)."
+
+#. placeholder {0}: atual.nome
+#: src/components/SeletorIdioma.jsx:35
+msgid "Idioma: {0}"
+msgstr "Idioma: {0}"
+
+#: src/pages/Contactos.jsx:15
+msgid "Imprensa"
+msgstr "Imprensa"
+
+#: src/pages/Vinho.jsx:125
+msgid "Inclui"
+msgstr "Inclui"
+
+#: src/components/VerificacaoIdade.jsx:33
+msgid "Lamentamos"
+msgstr "Lamentamos"
+
+#: src/pages/Noticias.jsx:34
+msgid "Ler mais"
+msgstr "Ler mais"
+
+#: src/pages/Cookies.jsx:43
+#: src/pages/Privacidade.jsx:101
+msgid "Ligações para outros sites"
+msgstr "Ligações para outros sites"
+
+#: src/pages/Privacidade.jsx:89
+msgid "limitar ou opor-se ao tratamento;"
+msgstr "limitar ou opor-se ao tratamento;"
+
+#: src/components/Footer.jsx:45
+msgid "Livro de reclamações"
+msgstr "Livro de reclamações"
+
+#: src/pages/Adega.jsx:93
+msgid "Localização e contactos"
+msgstr "Localização e contactos"
+
+#: src/pages/Contactos.jsx:142
+msgid "Mensagem"
+msgstr "Mensagem"
+
+#: src/pages/Contactos.jsx:69
+msgid "Mensagem enviada. Respondemos em até dois dias úteis."
+msgstr "Mensagem enviada. Respondemos em até dois dias úteis."
+
+#: src/components/Header.jsx:41
+msgid "Menu"
+msgstr "Menu"
+
+#: src/components/Footer.jsx:27
+#: src/pages/Contactos.jsx:86
+msgid "Morada"
+msgstr "Morada"
+
+#: src/data/metaTraduzida.js:32
+msgid "Morada, horário e contactos da quinta. Marque uma visita ou prova, ou fale connosco sobre encomendas e distribuição."
+msgstr "Morada, horário e contactos da quinta. Marque uma visita ou prova, ou fale connosco sobre encomendas e distribuição."
+
+#: src/data/metaTraduzida.js:24
+msgid "Moradia de dois quartos na Quinta da Coitada, no Douro, com piscina, terraço, varanda e vista para o rio. Reserve no Booking.com ou no Airbnb."
+msgstr "Moradia de dois quartos na Quinta da Coitada, no Douro, com piscina, terraço, varanda e vista para o rio. Reserve no Booking.com ou no Airbnb."
+
+#: src/components/VerificacaoIdade.jsx:45
+msgid "Não"
+msgstr "Não"
+
+#: src/pages/Contactos.jsx:45
+#: src/pages/Contactos.jsx:65
+msgid "Não foi possível enviar a mensagem. Tente outra vez ou escreva para {email}."
+msgstr "Não foi possível enviar a mensagem. Tente outra vez ou escreva para {email}."
+
+#: src/components/Footer.jsx:17
+msgid "Navegação"
+msgstr "Navegação"
+
+#: src/pages/Cookies.jsx:27
+msgid "Nenhum. O site da {marca} não usa cookies nem ferramentas de estatística, publicidade ou botões de redes sociais. Por isso também não lhe pedimos consentimento à entrada."
+msgstr "Nenhum. O site da {marca} não usa cookies nem ferramentas de estatística, publicidade ou botões de redes sociais. Por isso também não lhe pedimos consentimento à entrada."
+
+#: src/pages/Contactos.jsx:121
+msgid "Nome completo"
+msgstr "Nome completo"
+
+#: src/pages/Privacidade.jsx:34
+msgid "nome;"
+msgstr "nome;"
+
+#: src/pages/Vinho.jsx:102
+msgid "Notas de prova"
+msgstr "Notas de prova"
+
+#: src/components/Footer.jsx:22
+#: src/components/Header.jsx:19
+#: src/pages/Noticia.jsx:21
+#: src/pages/Noticias.jsx:15
+msgid "Novidades"
+msgstr "Novidades"
+
+#: src/data/metaTraduzida.js:27
+msgid "Novidades | {marca}"
+msgstr "Novidades | {marca}"
+
+#: src/data/metaTraduzida.js:28
+#: src/pages/Noticias.jsx:16
+msgid "Novidades da quinta: vindimas, vinhos novos, prémios e eventos."
+msgstr "Novidades da quinta: vindimas, vinhos novos, prémios e eventos."
+
+#: src/pages/NotFound.jsx:8
+msgid "O endereço pode ter mudado. Volte à <0>quinta</0> ou veja os <1>vinhos</1>."
+msgstr "O endereço pode ter mudado. Volte à <0>quinta</0> ou veja os <1>vinhos</1>."
+
+#: src/pages/Cookies.jsx:17
+msgid "O que são cookies"
+msgstr "O que são cookies"
+
+#: src/pages/Privacidade.jsx:24
+msgid "O responsável pelo tratamento é a <0>{empresa}</0>, que produz e comercializa os vinhos da {marca}, com o NIF {nif} e sede em {sede}. Para qualquer questão sobre os seus dados, escreva para <1>{email}</1>."
+msgstr "O responsável pelo tratamento é a <0>{empresa}</0>, que produz e comercializa os vinhos da {marca}, com o NIF {nif} e sede em {sede}. Para qualquer questão sobre os seus dados, escreva para <1>{email}</1>."
+
+#: src/pages/Alojamento.jsx:41
+msgid "O rio Douro visto da quinta"
+msgstr "O rio Douro visto da quinta"
+
+#: src/pages/Adega.jsx:68
+msgid "O rio Douro visto da quinta, com vinhas em socalcos nas duas margens"
+msgstr "O rio Douro visto da quinta, com vinhas em socalcos nas duas margens"
+
+#: src/pages/Cookies.jsx:33
+msgid "O site guarda apenas, no seu browser, o idioma que escolheu e a confirmação de que tem 18 anos ou mais, para não lhe voltar a perguntar na próxima visita. Esta informação não é enviada para nenhum servidor e pode apagá-la a qualquer momento nas definições do browser."
+msgstr "O site guarda apenas, no seu browser, o idioma que escolheu e a confirmação de que tem 18 anos ou mais, para não lhe voltar a perguntar na próxima visita. Esta informação não é enviada para nenhum servidor e pode apagá-la a qualquer momento nas definições do browser."
+
+#: src/pages/Privacidade.jsx:40
+msgid "O site não usa ferramentas de estatística, publicidade ou redes sociais que recolham dados sobre a sua visita. Veja a <0>política de cookies</0>."
+msgstr "O site não usa ferramentas de estatística, publicidade ou redes sociais que recolham dados sobre a sua visita. Veja a <0>política de cookies</0>."
+
+#: src/pages/Privacidade.jsx:103
+msgid "O site tem ligações para o Instagram, o Google Maps e o Livro de Reclamações. Ao abri-las, passa a aplicar-se a política de privacidade de cada um desses serviços."
+msgstr "O site tem ligações para o Instagram, o Google Maps e o Livro de Reclamações. Ao abri-las, passa a aplicar-se a política de privacidade de cada um desses serviços."
+
+#: src/pages/Privacidade.jsx:57
+msgid "O tratamento baseia-se no seu consentimento, dado ao assinalar a caixa no formulário (artigo 6.º, n.º 1, alínea a) do Regulamento Geral sobre a Proteção de Dados). Quando o pedido é uma encomenda, baseia-se também nas diligências necessárias antes de um contrato (alínea b)."
+msgstr "O tratamento baseia-se no seu consentimento, dado ao assinalar a caixa no formulário (artigo 6.º, n.º 1, alínea a) do Regulamento Geral sobre a Proteção de Dados). Quando o pedido é uma encomenda, baseia-se também nas diligências necessárias antes de um contrato (alínea b)."
+
+#: src/pages/Contactos.jsx:88
+msgid "Obter direções"
+msgstr "Obter direções"
+
+#: src/pages/Privacidade.jsx:83
+msgid "Os seus direitos"
+msgstr "Os seus direitos"
+
+#: src/pages/Vinhos.jsx:32
+msgid "Os vinhos da Coitada"
+msgstr "Os vinhos da Coitada"
+
+#: src/pages/Adega.jsx:89
+msgid "Os vinhos da quinta"
+msgstr "Os vinhos da quinta"
+
+#: src/pages/Noticia.jsx:44
+msgid "Outras novidades"
+msgstr "Outras novidades"
+
+#: src/pages/Vinho.jsx:134
+msgid "Outros vinhos"
+msgstr "Outros vinhos"
+
+#: src/data/metaTraduzida.js:44
+msgid "Página não encontrada | {marca}"
+msgstr "Página não encontrada | {marca}"
+
+#: src/components/VerificacaoIdade.jsx:34
+msgid "Para entrar neste site tem de ter idade legal para consumir bebidas alcoólicas."
+msgstr "Para entrar neste site tem de ter idade legal para consumir bebidas alcoólicas."
+
+#: src/pages/Privacidade.jsx:94
+msgid "Para exercer qualquer destes direitos, escreva para <0>{email}</0>. Respondemos no prazo de um mês. Se considerar que os seus dados não foram bem tratados, pode apresentar queixa à Comissão Nacional de Proteção de Dados (<1>www.cnpd.pt</1>)."
+msgstr "Para exercer qualquer destes direitos, escreva para <0>{email}</0>. Respondemos no prazo de um mês. Se considerar que os seus dados não foram bem tratados, pode apresentar queixa à Comissão Nacional de Proteção de Dados (<1>www.cnpd.pt</1>)."
+
+#: src/pages/Privacidade.jsx:46
+msgid "Para que usamos os dados"
+msgstr "Para que usamos os dados"
+
+#: src/pages/Privacidade.jsx:90
+msgid "pedir os dados num formato que possa levar para outra entidade;"
+msgstr "pedir os dados num formato que possa levar para outra entidade;"
+
+#: src/pages/Privacidade.jsx:88
+msgid "pedir que os apaguemos;"
+msgstr "pedir que os apaguemos;"
+
+#: src/pages/Alojamento.jsx:65
+msgid "Pedra, madeira e vista para o rio"
+msgstr "Pedra, madeira e vista para o rio"
+
+#: src/data/vinhosTextos.js:19
+msgid "pH"
+msgstr "pH"
+
+#: src/pages/Adega.jsx:13
+#: src/pages/Alojamento.jsx:27
+msgid "Piscina"
+msgstr "Piscina"
+
+#: src/pages/Privacidade.jsx:84
+msgid "Pode, a qualquer momento e sem custos:"
+msgstr "Pode, a qualquer momento e sem custos:"
+
+#: src/components/Footer.jsx:44
+#: src/pages/Cookies.jsx:10
+msgid "Política de cookies"
+msgstr "Política de cookies"
+
+#: src/data/metaTraduzida.js:39
+msgid "Política de cookies | {marca}"
+msgstr "Política de cookies | {marca}"
+
+#: src/components/Footer.jsx:43
+#: src/pages/Privacidade.jsx:15
+msgid "Política de privacidade"
+msgstr "Política de privacidade"
+
+#: src/data/metaTraduzida.js:35
+msgid "Política de privacidade | {marca}"
+msgstr "Política de privacidade | {marca}"
+
+#: src/pages/Vinho.jsx:57
+msgid "Produtor"
+msgstr "Produtor"
+
+#: src/pages/Alojamento.jsx:42
+msgid "Quarto com cama de casal"
+msgstr "Quarto com cama de casal"
+
+#: src/pages/Alojamento.jsx:36
+msgid "Quarto com cama de casal e parede de rocha"
+msgstr "Quarto com cama de casal e parede de rocha"
+
+#: src/pages/Alojamento.jsx:39
+msgid "Quarto com parede de rocha natural"
+msgstr "Quarto com parede de rocha natural"
+
+#: src/data/metaTraduzida.js:40
+msgid "Que cookies e serviços de terceiros o site da {marca} usa."
+msgstr "Que cookies e serviços de terceiros o site da {marca} usa."
+
+#: src/pages/Cookies.jsx:25
+msgid "Que cookies usamos"
+msgstr "Que cookies usamos"
+
+#: src/pages/Privacidade.jsx:31
+msgid "Que dados recolhemos"
+msgstr "Que dados recolhemos"
+
+#: src/pages/Privacidade.jsx:22
+msgid "Quem é responsável pelos seus dados"
+msgstr "Quem é responsável pelos seus dados"
+
+#: src/pages/Privacidade.jsx:73
+msgid "Quem tem acesso"
+msgstr "Quem tem acesso"
+
+#: src/components/Footer.jsx:19
+#: src/components/Header.jsx:15
+msgid "Quinta"
+msgstr "Quinta"
+
+#: src/components/Header.jsx:25
+msgid "Quinta da Coitada — início"
+msgstr "Quinta da Coitada — início"
+
+#: src/data/metaTraduzida.js:16
+msgid "Quinta no Douro com vista para o rio, entre vinhas em socalcos. Conheça os vinhos da quinta e o alojamento local com piscina."
+msgstr "Quinta no Douro com vista para o rio, entre vinhas em socalcos. Conheça os vinhos da quinta e o alojamento local com piscina."
+
+#: src/pages/Contactos.jsx:80
+msgid "Recebemos visitas com marcação. Para encomendas, distribuição ou imprensa, ligue-nos, envie um email ou use o formulário."
+msgstr "Recebemos visitas com marcação. Para encomendas, distribuição ou imprensa, ligue-nos, envie um email ou use o formulário."
+
+#: src/pages/Vinho.jsx:51
+msgid "Região"
+msgstr "Região"
+
+#: src/pages/Alojamento.jsx:90
+#: src/pages/Alojamento.jsx:93
+msgid "Reservar no"
+msgstr "Reservar no"
+
+#: src/pages/Privacidade.jsx:91
+msgid "retirar o consentimento, sem que isso afete o tratamento feito até então."
+msgstr "retirar o consentimento, sem que isso afete o tratamento feito até então."
+
+#: src/data/conteudo.js:6
+msgid "Sábado"
+msgstr "Sábado"
+
+#: src/pages/Privacidade.jsx:86
+msgid "saber que dados temos sobre si e pedir uma cópia;"
+msgstr "saber que dados temos sobre si e pedir uma cópia;"
+
+#: src/pages/Alojamento.jsx:22
+msgid "Sala de estar"
+msgstr "Sala de estar"
+
+#: src/App.jsx:54
+msgid "Saltar para o conteúdo"
+msgstr "Saltar para o conteúdo"
+
+#: src/pages/Privacidade.jsx:110
+msgid "Se esta política mudar, publicamos aqui a nova versão e atualizamos a data no topo."
+msgstr "Se esta política mudar, publicamos aqui a nova versão e atualizamos a data no topo."
+
+#: src/pages/Cookies.jsx:56
+msgid "Se passarmos a usar cookies (por exemplo, para estatísticas de visitas), atualizamos esta página e pedimos o seu consentimento antes de os ativar. Sobre o formulário de contacto, veja a <0>política de privacidade</0>."
+msgstr "Se passarmos a usar cookies (por exemplo, para estatísticas de visitas), atualizamos esta página e pedimos o seu consentimento antes de os ativar. Sobre o formulário de contacto, veja a <0>política de privacidade</0>."
+
+#: src/components/Galeria.jsx:39
+msgid "Seguinte"
+msgstr "Seguinte"
+
+#: src/data/conteudo.js:5
+msgid "Segunda a sexta"
+msgstr "Segunda a sexta"
+
+#: src/components/VerificacaoIdade.jsx:49
+msgid "Seja responsável. Beba com moderação."
+msgstr "Seja responsável. Beba com moderação."
+
+#: src/pages/Contactos.jsx:71
+msgid "Sem ligação ao servidor. Tente mais tarde ou escreva para {email}."
+msgstr "Sem ligação ao servidor. Tente mais tarde ou escreva para {email}."
+
+#: src/components/VerificacaoIdade.jsx:44
+msgid "Sim, tenho 18 anos ou mais"
+msgstr "Sim, tenho 18 anos ou mais"
+
+#: src/pages/Privacidade.jsx:32
+msgid "Só recolhemos os dados que escreve no <0>formulário de contacto</0>:"
+msgstr "Só recolhemos os dados que escreve no <0>formulário de contacto</0>:"
+
+#: src/pages/Vinho.jsx:71
+msgid "Sulfitos"
+msgstr "Sulfitos"
+
+#: src/pages/Vinho.jsx:91
+msgid "Também disponível na <0>caixa de oferta</0> da quinta."
+msgstr "Também disponível na <0>caixa de oferta</0> da quinta."
+
+#: src/pages/Contactos.jsx:130
+msgid "Telefone <0>(opcional)</0>"
+msgstr "Telefone <0>(opcional)</0>"
+
+#: src/pages/Privacidade.jsx:36
+msgid "telefone, se o indicar (é opcional);"
+msgstr "telefone, se o indicar (é opcional);"
+
+#: src/components/VerificacaoIdade.jsx:41
+msgid "Tem 18 anos ou mais?"
+msgstr "Tem 18 anos ou mais?"
+
+#: src/pages/Vinho.jsx:56
+msgid "Temperatura de serviço"
+msgstr "Temperatura de serviço"
+
+#: src/pages/Vinho.jsx:55
+msgid "Teor alcoólico"
+msgstr "Teor alcoólico"
+
+#: src/pages/Alojamento.jsx:28
+msgid "Terraço, varanda e jardim"
+msgstr "Terraço, varanda e jardim"
+
+#: src/data/vinhosTextos.js:13
+msgid "Tinto"
+msgstr "Tinto"
+
+#: src/pages/Vinho.jsx:50
+msgid "Tipo"
+msgstr "Tipo"
+
+#: src/pages/Alojamento.jsx:25
+msgid "Toalhas e roupa de cama"
+msgstr "Toalhas e roupa de cama"
+
+#: src/pages/Noticia.jsx:40
+msgid "Todas as novidades"
+msgstr "Todas as novidades"
+
+#: src/data/vinhosTextos.js:6
+msgid "Todos"
+msgstr "Todos"
+
+#: src/pages/Cookies.jsx:15
+#: src/pages/Privacidade.jsx:20
+msgid "Última atualização: 21 de outubro de 2026"
+msgstr "Última atualização: 21 de outubro de 2026"
+
+#: src/pages/Adega.jsx:24
+msgid "Uma casa de pedra entre vinhas em socalcos, com vista para o rio Douro. Para conhecer os vinhos da quinta ou ficar uns dias."
+msgstr "Uma casa de pedra entre vinhas em socalcos, com vista para o rio Douro. Para conhecer os vinhos da quinta ou ficar uns dias."
+
+#: src/pages/Adega.jsx:79
+msgid "Uma moradia com dois quartos, cozinha equipada, piscina e varanda virada para o Douro."
+msgstr "Uma moradia com dois quartos, cozinha equipada, piscina e varanda virada para o Douro."
+
+#: src/pages/Alojamento.jsx:53
+msgid "Uma moradia com vista para a piscina e para o Douro, com terraço, varanda, jardim e estacionamento privado gratuito."
+msgstr "Uma moradia com vista para a piscina e para o Douro, com terraço, varanda, jardim e estacionamento privado gratuito."
+
+#: src/pages/Privacidade.jsx:48
+msgid "Usamos os dados apenas para responder ao seu pedido: marcar visitas e provas, tratar de encomendas e distribuição, ou responder a pedidos de imprensa. Não os usamos para enviar publicidade nem os vendemos ou cedemos a terceiros para esse fim."
+msgstr "Usamos os dados apenas para responder ao seu pedido: marcar visitas e provas, tratar de encomendas e distribuição, ou responder a pedidos de imprensa. Não os usamos para enviar publicidade nem os vendemos ou cedemos a terceiros para esse fim."
+
+#: src/data/vinhosTextos.js:23
+msgid "Valor energético"
+msgstr "Valor energético"
+
+#: src/pages/Alojamento.jsx:86
+msgid "Veja as datas livres e reserve no Booking.com ou no Airbnb. Para outras questões, <0>fale connosco</0>."
+msgstr "Veja as datas livres e reserve no Booking.com ou no Airbnb. Para outras questões, <0>fale connosco</0>."
+
+#: src/pages/Vinho.jsx:118
+msgid "Ver ficha técnica"
+msgstr "Ver ficha técnica"
+
+#. placeholder {0}: n + 1
+#: src/pages/Vinho.jsx:23
+msgid "Ver fotografia {0}"
+msgstr "Ver fotografia {0}"
+
+#: src/pages/Adega.jsx:83
+msgid "Ver o alojamento"
+msgstr "Ver o alojamento"
+
+#: src/pages/Adega.jsx:90
+msgid "Ver os vinhos"
+msgstr "Ver os vinhos"
+
+#: src/pages/Adega.jsx:13
+msgid "Vinha em socalcos"
+msgstr "Vinha em socalcos"
+
+#: src/data/metaTraduzida.js:66
+msgid "Vinho {cor}"
+msgstr "Vinho {cor}"
+
+#: src/components/Footer.jsx:20
+#: src/components/Header.jsx:16
+#: src/pages/Vinho.jsx:77
+msgid "Vinhos"
+msgstr "Vinhos"
+
+#: src/data/metaTraduzida.js:19
+msgid "Vinhos | {marca}"
+msgstr "Vinhos | {marca}"
+
+#: src/pages/Vinhos.jsx:34
+msgid "Vinhos do Douro de uma só encosta: o Xisto Grande Reserva das vinhas velhas, o Coitada Reserva, os Socalco tinto e branco para todos os dias, e tinto e branco em bag-in-box."
+msgstr "Vinhos do Douro de uma só encosta: o Xisto Grande Reserva das vinhas velhas, o Coitada Reserva, os Socalco tinto e branco para todos os dias, e tinto e branco em bag-in-box."
+
+#: src/pages/Contactos.jsx:12
+msgid "Visitas e provas"
+msgstr "Visitas e provas"
+
+#: src/pages/Contactos.jsx:79
+msgid "Visite-nos ou escreva-nos"
+msgstr "Visite-nos ou escreva-nos"
+
+#: src/pages/Alojamento.jsx:60
+msgid "Vista da casa sobre o rio Douro e as vinhas em socalcos"
+msgstr "Vista da casa sobre o rio Douro e as vinhas em socalcos"
+
+#: src/pages/Adega.jsx:13
+msgid "Vista para o rio"
+msgstr "Vista para o rio"
+
+#: src/pages/Adega.jsx:69
+msgid "Vista sobre o telhado da casa para o rio Douro"
+msgstr "Vista sobre o telhado da casa para o rio Douro"
+
+#: src/components/VerificacaoIdade.jsx:36
+msgid "Voltar"
+msgstr "Voltar"
+
+#: src/data/metaTraduzida.js:20
+msgid "Xisto Grande Reserva, Coitada Reserva, Socalco tinto e branco Douro DOC, e tinto e branco em bag-in-box. Fichas técnicas e notas de prova."
+msgstr "Xisto Grande Reserva, Coitada Reserva, Socalco tinto e branco Douro DOC, e tinto e branco em bag-in-box. Fichas técnicas e notas de prova."

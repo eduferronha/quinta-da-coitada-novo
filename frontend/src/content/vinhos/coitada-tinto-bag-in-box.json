@@ -1,0 +1,14 @@
+{
+  "ordem": 50,
+  "nome": "Coitada Tinto Bag-in-box",
+  "categoria": "bag-in-box",
+  "cor": "tinto",
+  "formato": "5 L",
+  "alcool": 13,
+  "produtor": "Coitada Vinhos, Lda",
+  "fotos": [
+    "/img/vinhos/coitada-tinto-bag-in-box.jpg"
+  ],
+  "descricao_foto": "Caixa bag-in-box verde de 5 litros de Coitada Vinho Tinto",
+  "descricao": "O nosso tinto de mesa em caixa de 5 litros, com torneira."
+}
